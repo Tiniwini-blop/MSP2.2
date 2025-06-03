@@ -5179,3 +5179,212 @@ java.lang.IllegalArgumentException: Comparison method violates its general contr
 [02:57:44] [Server thread/INFO] [tombstone]: Sebas has successfully been saved
 [02:57:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas was slain by Rupter
 [02:57:46] [Server thread/INFO] [tombstone]: The last known grave of Sebas is at location [name:Last Grave, x:-48, y:72, z:261] in the dimension 0
+[02:58:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> mate un nucleo
+[02:59:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas is bleeding...
+[02:59:08] [Server thread/INFO] [tombstone]: The death event of the player Sebas was cancelled by another mod
+[02:59:08] [Server thread/INFO] [tombstone]: Sebas has successfully been saved
+[02:59:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> hazme tp
+[02:59:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sancho: Teleported Sebas to Sancho]
+[02:59:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> vrga
+[03:00:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sebas lost connection: You logged in from another location
+[03:00:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas left the game
+[03:00:30] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[03:00:30] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 65 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,skinlayers3d@1.2.0,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,controllable@0.11.2,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[03:00:30] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[03:00:30] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[03:00:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:00:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sebas[/127.85.151.59:53559] logged in with entity id 843817 at (9.285946566145867, 72.0, 152.62614708929323)
+[03:00:33] [Server thread/INFO] [dsurround]: Player [Sebas] connected with Dynamic Surroundings @VERSION@
+[03:00:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas joined the game
+[03:00:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sebas lost connection: You logged in from another location
+[03:00:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas left the game
+[03:00:45] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[03:00:45] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 64 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,waila@1.8.26,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[03:00:45] [Netty Epoll Server IO #5/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[03:00:45] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
+[03:00:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:00:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sebas[/127.50.243.42:53491] logged in with entity id 846877 at (9.285946566145867, 72.0, 152.62614708929323)
+[03:00:48] [Server thread/INFO] [dsurround]: Player [Sebas] connected with Dynamic Surroundings @VERSION@
+[03:00:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas joined the game
+[03:01:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> mimir
+[03:01:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sancho moved too quickly! -0.026675826889901444,0.0,10.082754760980606
+[03:02:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ya en el dia matamos
+[03:02:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> putos parasitos
+[03:02:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho has made the advancement [Sweet dreams]
+[03:02:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> lo que tenemos abajo
+[03:02:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> yo voy
+[03:03:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ya estoy cheto
+[03:03:27] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[03:03:27] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 65 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,skinlayers3d@1.2.0,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,controllable@0.11.2,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[03:03:27] [Netty Epoll Server IO #6/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[03:03:27] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[03:03:30] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:03:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Kevin070507[/127.85.151.59:57371] logged in with entity id 877146 at (-21.10199341277522, 72.0, 260.15610346975313)
+[03:03:30] [Server thread/INFO] [dsurround]: Player [Kevin070507] connected with Dynamic Surroundings @VERSION@
+[03:03:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 joined the game
+[03:03:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> kekin parasitos
+[03:03:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> hola
+[03:03:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> XD
+[03:04:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> aaa que abajo habia
+[03:04:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:04:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> ay wey balasos
+[03:04:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> tiburon chek
+[03:04:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> tiburon goty
+[03:04:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> por cierto econtre huevo de dragon de bosque
+[03:04:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sebas: Teleported Sebas to Sancho]
+[03:05:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sebas: Teleported Sebas to Sancho]
+[03:05:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> hey pongo el carry mod pal huevo?
+[03:05:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> cm gustes
+[03:05:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> y lo agarraste?
+[03:05:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> lo rompi
+[03:05:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> sio
+[03:05:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> NOOOOOOOOOOOOOOOOOO
+[03:05:32] [Server thread/WARN] [FML]: The Lost Cities loaded a new chunk [12, -55] in dimension 0 (overworld) while populating chunk [12, -54], causing cascading worldgen lag.
+[03:05:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:05:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> me lo dio
+[03:05:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> a
+[03:05:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> me cague
+[03:05:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Kevin070507 to Sancho]
+[03:05:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> ay perdom beli XD
+[03:06:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> ya tenemos pa volar dos personas
+[03:06:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas is bleeding...
+[03:06:17] [Server thread/INFO] [tombstone]: The death event of the player Sebas was cancelled by another mod
+[03:06:17] [Server thread/INFO] [tombstone]: Sebas has successfully been saved
+[03:06:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ay
+[03:06:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> hazme tp
+[03:06:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Sebas to Kevin070507]
+[03:06:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ayudame a matarlo
+[03:06:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> y ya lo incubaste?
+[03:06:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> no
+[03:06:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> onta?
+[03:07:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> esta campeando abaj o del puente el puto
+[03:07:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 is bleeding...
+[03:07:31] [Server thread/INFO] [tombstone]: The death event of the player Kevin070507 was cancelled by another mod
+[03:07:31] [Server thread/INFO] [tombstone]: Kevin070507 has successfully been saved
+[03:07:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> AY WEY
+[03:07:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> listo ya lo aleje a montones
+[03:07:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> tp alguien
+[03:07:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> quien sea
+[03:07:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> beli
+[03:07:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> voy
+[03:07:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> o quieren que este mas lejos
+[03:08:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> 25
+[03:08:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> 24
+[03:08:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> 23
+[03:08:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sebas: Teleported Kevin070507 to Sancho]
+[03:08:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> dale
+[03:08:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas has made the advancement [Jaws]
+[03:09:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas is bleeding...
+[03:09:00] [Server thread/INFO] [tombstone]: The death event of the player Sebas was cancelled by another mod
+[03:09:00] [Server thread/INFO] [tombstone]: Sebas has successfully been saved
+[03:09:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sebas moved wrongly!
+[03:09:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> tpo
+[03:09:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> tp
+[03:09:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> tp
+[03:09:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> tp
+[03:09:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Sebas to Kevin070507]
+[03:09:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Basic Ammo] * 64 to Kevin070507]
+[03:09:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas is bleeding...
+[03:09:38] [Server thread/INFO] [tombstone]: The death event of the player Sebas was cancelled by another mod
+[03:09:38] [Server thread/INFO] [tombstone]: Sebas has successfully been saved
+[03:09:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ay
+[03:09:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Sebas to Kevin070507]
+[03:09:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> cm me mato
+[03:09:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> estaba lejisismos
+[03:09:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sancho moved too quickly! -0.10624792310409248,7.5,-7.110252007842064
+[03:10:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sebas moved too quickly! -0.7766271694094193,6.9375,-7.5546811187431615
+[03:10:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 has made the advancement [Death to Danger Cube]
+[03:10:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> XD
+[03:10:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! -6.890321649325696,-2.7495094911955675E-7,7.3662125325305965
+[03:10:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! -7.04345388337636,-2.749688405856432E-7,7.508407756541402
+[03:10:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! -7.211177295026099,-2.7476127684167295E-7,7.662903058788203
+[03:10:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! -7.362128361512028,-2.7440165695225005E-7,7.801948827126864
+[03:10:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! -7.497984317750408,-2.739574966881264E-7,7.9270900153165655
+[03:10:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! -7.620254675125894,-2.7348637843260803E-7,8.039717081703685
+[03:10:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! -7.730297993848676,-2.7303369876108263E-7,8.14108143876686
+[03:10:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! -7.8293369780755455,-2.726319863199933E-7,8.23230935770701
+[03:10:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! -7.918472061518454,-2.723014631555998E-7,8.314414482578087
+[03:10:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 11.237842652217374,-2.3587674036207318E-9,-10.875718629509379
+[03:10:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 11.237842652217374,-2.3587674036207318E-9,-10.875718629509379
+[03:10:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 11.237842652217374,-2.3587674036207318E-9,-10.875718629509379
+[03:10:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 11.237842652217374,-2.3587674036207318E-9,-10.875718629509379
+[03:10:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 11.237842652217374,-2.3587674036207318E-9,-10.875718629509379
+[03:10:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 11.237842652217374,-2.3587674036207318E-9,-10.875718629509379
+[03:10:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 11.237842652217374,-2.3587674036207318E-9,-10.875718629509379
+[03:10:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 11.237842652217374,-2.3587674036207318E-9,-10.875718629509379
+[03:10:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 11.237842652217374,-2.3587674036207318E-9,-10.875718629509379
+[03:10:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 11.108952467078037,-2.1652297732543957E-9,-10.666653688031914
+[03:10:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 10.963624262987423,-1.842415997543867E-9,-10.451338712013296
+[03:10:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 10.803753442751397,-1.4491305933006515E-9,-10.230129554695225
+[03:10:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 10.631048329404287,-1.0352678714298236E-9,-10.003348802979957
+[03:10:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 10.446963084480217,-6.399218932529038E-10,-9.771377033954622
+[03:10:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 10.252850652031977,-2.909033014475426E-10,-9.53451409565082
+[03:10:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 10.049843512225372,-5.272227099339943E-12,-9.293118343698268
+[03:10:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 9.839005084713504,2.0938273337378632E-10,-9.047469643581223
+[03:10:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 9.649250504979602,3.531965830916306E-10,-8.826385819332586
+[03:10:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 9.478471387743191,4.320739321883593E-10,-8.627410382779857
+[03:10:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 9.324770186302112,4.5577763785331626E-10,-8.448332494626356
+[03:10:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 9.186439108669664,4.361595529189799E-10,-8.287162399557758
+[03:10:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 9.061941142098531,3.856612806885096E-10,-8.142109317838617
+[03:10:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 8.949892975152775,3.161417794217414E-10,-8.011561547749722
+[03:10:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 8.849049627573029,2.3806023818906397E-10,-7.894068557782219
+[03:10:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 8.758290617155552,1.5997159152902896E-10,-7.7883248696127225
+[03:10:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 8.676607509943684,8.827782949083485E-11,-7.693155552781292
+[03:10:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 8.603092715400482,2.7263524771115044E-11,-7.6075031699020315
+[03:10:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sebas) moved too quickly! 8.536929402064327,-2.0733637029479723E-11,-7.5304160273528
+[03:10:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> cayo algo bajo el agua
+[03:10:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> parecian huevos
+[03:10:54] [Server thread/WARN] [FML]: Quark loaded a new chunk [16, -23] in dimension 0 (overworld) while populating chunk [16, -22], causing cascading worldgen lag.
+[03:10:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:11:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 is bleeding...
+[03:11:06] [Server thread/INFO] [tombstone]: The death event of the player Kevin070507 was cancelled by another mod
+[03:11:06] [Server thread/INFO] [tombstone]: Kevin070507 has successfully been saved
+[03:11:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> AY WEY
+[03:11:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> voy
+[03:11:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> ataca desde narnia
+[03:11:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sebas: Teleported Kevin070507 to Sancho]
+[03:12:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> tiburon god
+[03:12:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> XD
+[03:12:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> le disparaste
+[03:12:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> A QUE LA VERGA
+[03:12:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> ACABO DE ENTRAR
+[03:12:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sebas: Teleported Sebas to Sancho]
+[03:12:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> sebas dame huevo
+[03:12:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> es la arma definitiva esa madre
+[03:12:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> lo siento beli por siempre hacerte tp esque tienes el nombre mas corot
+[03:12:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> XD
+[03:13:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> y el tab esta de adorno o q
+[03:13:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> xD
+[03:13:39] [Server thread/WARN] [FML]: Quark loaded a new chunk [61, -29] in dimension 0 (overworld) while populating chunk [60, -28], causing cascading worldgen lag.
+[03:13:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:13:39] [Server thread/WARN] [FML]: Quark loaded a new chunk [60, -29] in dimension 0 (overworld) while populating chunk [60, -28], causing cascading worldgen lag.
+[03:13:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:13:39] [Server thread/WARN] [FML]: Quark loaded a new chunk [60, -30] in dimension 0 (overworld) while populating chunk [60, -28], causing cascading worldgen lag.
+[03:13:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:13:39] [Server thread/WARN] [FML]: Quark loaded a new chunk [61, -30] in dimension 0 (overworld) while populating chunk [60, -28], causing cascading worldgen lag.
+[03:13:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:13:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> hare mas torretas
+[03:13:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> hay que cubrirlo para evitar su infeccion
+[03:14:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> okey
+[03:14:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> donde quedo la que puse
+[03:14:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> q cosa?
+[03:14:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> hora de hacer un pa arriba hasta que no se vea el suelo
+[03:14:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> mi torreta
+[03:14:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> no la agarre w
+[03:14:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> el loco que se metio la rompio
+[03:14:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> nop
+[03:14:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> si yo vi
+[03:14:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> no la rompio
+[03:14:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> de hecho la torreta lo mato
+[03:15:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> NOOO BELI ASI SPAWNEAN XD
+[03:15:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> bueno equis
+[03:15:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> q
+[03:15:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> tiene que ser abajo de medio bloque
+[03:17:46] [Server thread/WARN] [FML]: Quark loaded a new chunk [39, -23] in dimension 0 (overworld) while populating chunk [39, -22], causing cascading worldgen lag.
+[03:17:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:17:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sancho was kicked for floating too long!
+[03:17:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sancho lost connection: Flying is not enabled on this server
+[03:17:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho left the game
+[03:18:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ay wey
+[03:18:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 lost connection: Disconnected
+[03:18:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 left the game

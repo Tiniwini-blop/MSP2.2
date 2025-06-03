@@ -1199,6 +1199,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:jellyfish_killed": {
+    "criteria": {
+      "jellyfish_kill": "2025-06-03 03:10:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-06-02 04:20:49 +0000"

@@ -2927,6 +2927,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-03 03:02:19 +0000"
+    },
+    "done": true
+  },
   "dragonmounts:recipes/combat/fire_dragonscale_leggings": {
     "criteria": {
       "has_the_recipe": "2025-06-02 00:34:53 +0000"
@@ -3912,6 +3918,7 @@
       "cooked_beef": "2025-06-02 01:40:11 +0000",
       "baked_potato": "2025-06-02 03:46:12 +0000",
       "apple": "2025-06-02 01:55:33 +0000",
+      "bread": "2025-06-03 03:00:07 +0000",
       "rotten_flesh": "2025-06-02 01:05:21 +0000",
       "cooked_chicken": "2025-06-02 01:26:26 +0000",
       "carrot": "2025-06-02 01:46:58 +0000"
