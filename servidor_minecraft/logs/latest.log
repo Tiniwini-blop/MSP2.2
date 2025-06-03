@@ -4891,3 +4891,291 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'dragonmounts:dragon_bow_fir
 [02:26:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> cuanto de nivel en espada llevas?
 [02:26:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> tengo el maximo normal y la mitad en el libro que te di
 [02:27:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sebas: Teleported Sebas to Sancho]
+[02:28:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> bajo 16 con espada
+[02:28:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> y 4 con los puños
+[02:28:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> 3
+[02:28:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> 4
+[02:28:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> yo ya lo tengo al maximo
+[02:28:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> subete el otro
+[02:28:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> el del libro
+[02:29:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> damn al fin funciona
+[02:29:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> es pq craftee el libro
+[02:29:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> ah ya
+[02:29:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> y cuando estabamos en dibujo se lo di a kekin cuando estaba en tu cuenta
+[02:30:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> y no se donde lo dejo
+[02:30:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> creo que lo guardo
+[02:30:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> me bajan medio corazon
+[02:31:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> me voy de excursion
+[02:31:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> ok ok
+[02:31:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> tu haz el puente
+[02:31:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> damn la rapides de ataque
+[02:31:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sancho moved too quickly! 2.406028813757187,0.0,-9.787307323785058
+[02:32:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> ya hasta lo puedo spamear
+[02:32:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sebas moved too quickly! 0.1034538390765114,-13.68591980254947,-1.6618790153136587
+[02:32:46] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'techguns:chests/aircraftcarrier'!
+[02:32:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> q tontos
+[02:32:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> apenas me di cuenta q abajo del barco habia otro cofre
+[02:33:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> en si lo que trataba de subir ahora era la defensa
+[02:33:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> mira hazte tp
+[02:33:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> llevate las armas
+[02:33:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> hazme tp
+[02:33:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sebas: Teleported Sancho to Sebas]
+[02:33:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> abajo
+[02:33:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> pero abrelo desde arriba
+[02:34:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> ya hay subida en la base?
+[02:34:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> no xd
+[02:34:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> entonces como se hacia tp-
+[02:34:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> vrga dile a kekin que te haga adm
+[02:35:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> oh si
+[02:35:49] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2178ms behind, skipping 43 tick(s)
+[02:35:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sebas moved too quickly! -9.111736297607422,-4.304316827457541,-2.352781128603965
+[02:36:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sebas moved too quickly! -9.10199616389815,0.7017253481192114,4.635630427054849
+[02:36:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] perdon estaba tragando mocos
+[02:36:45] [Server thread/WARN] [FML]: Quark loaded a new chunk [-50, -29] in dimension 0 (overworld) while populating chunk [-50, -30], causing cascading worldgen lag.
+[02:36:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:36:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped Sancho
+[02:37:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> wos hay ardillas
+[02:37:28] [Server thread/WARN] [FML]: Dragon Mounts 2: Continued loaded a new chunk [-64, -15] in dimension 0 (overworld) while populating chunk [-64, -16], causing cascading worldgen lag.
+[02:37:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:37:29] [Server thread/WARN] [FML]: Techguns loaded a new chunk [-64, 1] in dimension 0 (overworld) while populating chunk [-64, 0], causing cascading worldgen lag.
+[02:37:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:37:29] [Server thread/WARN] [FML]: Techguns loaded a new chunk [-64, 2] in dimension 0 (overworld) while populating chunk [-64, 0], causing cascading worldgen lag.
+[02:37:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:37:29] [Server thread/WARN] [FML]: Techguns loaded a new chunk [-64, 3] in dimension 0 (overworld) while populating chunk [-64, 0], causing cascading worldgen lag.
+[02:37:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:37:29] [Server thread/WARN] [FML]: Techguns loaded a new chunk [-63, 0] in dimension 0 (overworld) while populating chunk [-64, 0], causing cascading worldgen lag.
+[02:37:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:37:29] [Server thread/WARN] [FML]: Techguns loaded a new chunk [-63, 1] in dimension 0 (overworld) while populating chunk [-64, 0], causing cascading worldgen lag.
+[02:37:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:37:29] [Server thread/WARN] [FML]: Techguns loaded a new chunk [-63, 2] in dimension 0 (overworld) while populating chunk [-64, 0], causing cascading worldgen lag.
+[02:37:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:37:29] [Server thread/WARN] [FML]: Techguns loaded a new chunk [-63, 3] in dimension 0 (overworld) while populating chunk [-64, 0], causing cascading worldgen lag.
+[02:37:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:37:29] [Server thread/WARN] [FML]: Techguns loaded a new chunk [-62, 0] in dimension 0 (overworld) while populating chunk [-64, 0], causing cascading worldgen lag.
+[02:37:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:37:29] [Server thread/WARN] [FML]: Techguns loaded a new chunk [-62, 1] in dimension 0 (overworld) while populating chunk [-64, 0], causing cascading worldgen lag.
+[02:37:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:37:29] [Server thread/WARN] [FML]: Techguns loaded a new chunk [-65, -1] in dimension 0 (overworld) while populating chunk [-64, 0], causing cascading worldgen lag.
+[02:37:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:37:29] [Server thread/WARN] [FML]: Techguns loaded a new chunk [-65, 0] in dimension 0 (overworld) while populating chunk [-64, 0], causing cascading worldgen lag.
+[02:37:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:37:29] [Server thread/WARN] [FML]: Quark loaded a new chunk [-60, -19] in dimension 0 (overworld) while populating chunk [-62, -18], causing cascading worldgen lag.
+[02:37:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:37:29] [Server thread/WARN] [FML]: Quark loaded a new chunk [-61, -19] in dimension 0 (overworld) while populating chunk [-62, -18], causing cascading worldgen lag.
+[02:37:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:37:29] [Server thread/WARN] [FML]: Quark loaded a new chunk [-60, -20] in dimension 0 (overworld) while populating chunk [-62, -18], causing cascading worldgen lag.
+[02:37:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:37:29] [Server thread/WARN] [FML]: Quark loaded a new chunk [-61, -20] in dimension 0 (overworld) while populating chunk [-62, -18], causing cascading worldgen lag.
+[02:37:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:37:55] [Server thread/WARN] [FML]: Dragon Mounts 2: Continued loaded a new chunk [-66, -12] in dimension 0 (overworld) while populating chunk [-66, -13], causing cascading worldgen lag.
+[02:37:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:37:55] [Server thread/WARN] [FML]: Dragon Mounts 2: Continued loaded a new chunk [-63, -28] in dimension 0 (overworld) while populating chunk [-64, -29], causing cascading worldgen lag.
+[02:37:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:37:55] [Server thread/WARN] [FML]: Dragon Mounts 2: Continued loaded a new chunk [-63, -29] in dimension 0 (overworld) while populating chunk [-64, -29], causing cascading worldgen lag.
+[02:37:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:37:55] [Server thread/WARN] [FML]: Dragon Mounts 2: Continued loaded a new chunk [-65, -31] in dimension 0 (overworld) while populating chunk [-64, -29], causing cascading worldgen lag.
+[02:37:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:38:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> que comando ponia para hacerme tp?
+[02:38:07] [Server thread/WARN] [FML]: Quark loaded a new chunk [-69, -1] in dimension 0 (overworld) while populating chunk [-70, 0], causing cascading worldgen lag.
+[02:38:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:38:08] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4323ms behind, skipping 86 tick(s)
+[02:38:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ./tp (jugador)
+[02:38:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> o desde el mod journey en los puntos que tienes puedes hacer tp
+[02:38:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> pero necesitas adm y salir y volver a entrar
+[02:38:40] [Server thread/WARN] [FML]: Dragon Mounts 2: Continued loaded a new chunk [-74, 13] in dimension 0 (overworld) while populating chunk [-73, 13], causing cascading worldgen lag.
+[02:38:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:38:40] [Server thread/WARN] [FML]: Dragon Mounts 2: Continued loaded a new chunk [-74, 12] in dimension 0 (overworld) while populating chunk [-73, 13], causing cascading worldgen lag.
+[02:38:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:38:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> a ok
+[02:38:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sancho lost connection: Disconnected
+[02:38:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho left the game
+[02:38:54] [Server thread/WARN] [FML]: Dragon Mounts 2: Continued loaded a new chunk [-67, -25] in dimension 0 (overworld) while populating chunk [-68, -25], causing cascading worldgen lag.
+[02:38:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:38:55] [Server thread/WARN] [FML]: Quark loaded a new chunk [-76, -12] in dimension 0 (overworld) while populating chunk [-76, -13], causing cascading worldgen lag.
+[02:38:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:38:55] [Server thread/WARN] [FML]: Quark loaded a new chunk [-77, -12] in dimension 0 (overworld) while populating chunk [-76, -13], causing cascading worldgen lag.
+[02:38:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:39:26] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[02:39:26] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 63 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,hardcoredarkness@2.0,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[02:39:26] [Netty Epoll Server IO #1/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[02:39:26] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[02:39:30] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:39:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sancho[/127.229.21.125:60765] logged in with entity id 286293 at (17.188425103896492, 63.0, 11.650482540018853)
+[02:39:30] [Server thread/INFO] [dsurround]: Player [Sancho] connected with Dynamic Surroundings @VERSION@
+[02:39:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho joined the game
+[02:39:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sebas moved too quickly! -2.1639612488918374,2.1282528088143238,-9.991693286066237
+[02:39:40] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2769ms behind, skipping 55 tick(s)
+[02:40:02] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'techguns:chests/factory_building'!
+[02:40:10] [Server thread/WARN] [FML]: Quark loaded a new chunk [-70, -31] in dimension 0 (overworld) while populating chunk [-71, -32], causing cascading worldgen lag.
+[02:40:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:40:11] [Server thread/WARN] [FML]: Techguns loaded a new chunk [-63, -31] in dimension 0 (overworld) while populating chunk [-64, -32], causing cascading worldgen lag.
+[02:40:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:40:11] [Server thread/WARN] [FML]: Techguns loaded a new chunk [-63, -32] in dimension 0 (overworld) while populating chunk [-64, -32], causing cascading worldgen lag.
+[02:40:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:40:11] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2473ms behind, skipping 49 tick(s)
+[02:40:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 22ab51e8-16e7-4476-acab-658b184537c3
+[02:40:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sebas moved too quickly! -7.860737306107467,3.0343784697754472,-5.709682773681379
+[02:41:00] [Server thread/WARN] [FML]: Quark loaded a new chunk [-83, -38] in dimension 0 (overworld) while populating chunk [-83, -37], causing cascading worldgen lag.
+[02:41:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:41:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> no le temo a anda
+[02:41:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> Oh no
+[02:41:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> nada*
+[02:41:17] [Server thread/WARN] [FML]: Quark loaded a new chunk [-71, -46] in dimension 0 (overworld) while populating chunk [-72, -46], causing cascading worldgen lag.
+[02:41:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:41:17] [Server thread/WARN] [FML]: Quark loaded a new chunk [-71, -47] in dimension 0 (overworld) while populating chunk [-72, -46], causing cascading worldgen lag.
+[02:41:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:41:19] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2761ms behind, skipping 55 tick(s)
+[02:41:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sancho moved too quickly! -0.04826899524778128,7.0,-7.283304154872894
+[02:41:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> encontre una piramide de desierto muy rara
+[02:41:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas has made the advancement [Magic Writing]
+[02:42:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas has reached the goal [I see clearly now]
+[02:42:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> kekin
+[02:42:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> pon en dificil
+[02:44:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> encontre toque de seda
+[02:44:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] voy es que ando viendo que pedo se armo por entrar al salon jaja
+[02:45:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[02:45:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: An unknown error occurred while attempting to perform this command
+[02:45:05] [Server thread/WARN] [net.minecraft.command.CommandHandler]: Couldn't process command: help
+java.lang.IllegalArgumentException: Comparison method violates its general contract!
+	at java.util.ComparableTimSort.mergeLo(ComparableTimSort.java:744) ~[?:1.8.0_452]
+	at java.util.ComparableTimSort.mergeAt(ComparableTimSort.java:481) ~[?:1.8.0_452]
+	at java.util.ComparableTimSort.mergeCollapse(ComparableTimSort.java:406) ~[?:1.8.0_452]
+	at java.util.ComparableTimSort.sort(ComparableTimSort.java:213) ~[?:1.8.0_452]
+	at java.util.Arrays.sort(Arrays.java:1312) ~[?:1.8.0_452]
+	at java.util.Arrays.sort(Arrays.java:1506) ~[?:1.8.0_452]
+	at java.util.ArrayList.sort(ArrayList.java:1464) ~[?:1.8.0_452]
+	at java.util.Collections.sort(Collections.java:143) ~[?:1.8.0_452]
+	at net.minecraft.command.CommandHelp.func_184900_a(SourceFile:116) ~[cn.class:?]
+	at net.minecraft.command.CommandHelp.func_184881_a(SourceFile:71) ~[cn.class:?]
+	at net.minecraft.command.CommandHandler.func_175786_a(CommandHandler.java:119) [bj.class:?]
+	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:91) [bj.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71333_ah(DedicatedServer.java:433) [nz.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:398) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[02:45:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> en si estan bien tontos
+[02:45:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> era pedirle al profe que nos de libre
+[02:45:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> no volarsela
+[02:45:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set game difficulty to Hard
+[02:45:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] aparte de que con que entre uno llama
+[02:46:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> ya ibamos a palmarla si nos reportaba de nuevo
+[02:46:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] debemos ser todos pero unas pndejas
+[02:46:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas is bleeding...
+[02:46:08] [Server thread/INFO] [tombstone]: The death event of the player Sebas was cancelled by another mod
+[02:46:08] [Server thread/INFO] [tombstone]: Sebas has successfully been saved
+[02:46:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> hazme tp
+[02:46:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> hazme tp
+[02:46:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> hazme tp
+[02:46:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> pls
+[02:46:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported Sebas to Sancho
+[02:46:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] denada
+[02:46:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> we pinche arañota
+[02:46:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> salio de la nad
+[02:46:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> es que era spider man
+[02:47:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> me la va a pelar vas aver
+[02:48:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas is bleeding...
+[02:48:23] [Server thread/INFO] [tombstone]: The death event of the player Sebas was cancelled by another mod
+[02:48:23] [Server thread/INFO] [tombstone]: Sebas has successfully been saved
+[02:48:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> oh no
+[02:48:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> era bromita
+[02:48:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> pon /tp sebas sancho
+[02:48:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sancho: Teleported Sebas to Sancho]
+[02:49:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ya no me hago el heroe
+[02:49:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas is bleeding...
+[02:49:15] [Server thread/INFO] [tombstone]: The death event of the player Sebas was cancelled by another mod
+[02:49:15] [Server thread/INFO] [tombstone]: Sebas has successfully been saved
+[02:49:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas was slain by Adapted Summoner
+[02:49:17] [Server thread/INFO] [tombstone]: The last known grave of Sebas is at location [name:Last Grave, x:10, y:72, z:207] in the dimension 0
+[02:49:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas has reached the goal [Here They Come]
+[02:49:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho is bleeding...
+[02:49:25] [Server thread/INFO] [tombstone]: The death event of the player Sancho was cancelled by another mod
+[02:49:25] [Server thread/INFO] [tombstone]: Sancho has successfully been saved
+[02:49:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas is bleeding...
+[02:49:26] [Server thread/INFO] [tombstone]: The death event of the player Sebas was cancelled by another mod
+[02:49:26] [Server thread/INFO] [tombstone]: Sebas has successfully been saved
+[02:49:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas has reached the goal [Chain Death]
+[02:49:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas was slain by Primitive Summoner
+[02:49:27] [Server thread/INFO] [tombstone]: The last known grave of Sebas is at location [name:Last Grave, x:6, y:72, z:153] in the dimension 0
+[02:49:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas is bleeding...
+[02:49:36] [Server thread/INFO] [tombstone]: The death event of the player Sebas was cancelled by another mod
+[02:49:36] [Server thread/INFO] [tombstone]: Sebas has successfully been saved
+[02:49:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas was slain by Adapted Summoner
+[02:49:37] [Server thread/INFO] [tombstone]: The last known grave of Sebas is at location [name:Last Grave, x:2, y:72, z:154] in the dimension 0
+[02:49:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas is bleeding...
+[02:49:46] [Server thread/INFO] [tombstone]: The death event of the player Sebas was cancelled by another mod
+[02:49:46] [Server thread/INFO] [tombstone]: Sebas has successfully been saved
+[02:49:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> KEKIN MATALO
+[02:49:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas was slain by Assimilated Wolf
+[02:49:49] [Server thread/INFO] [tombstone]: The last known grave of Sebas is at location [name:Last Grave, x:8, y:74, z:143] in the dimension 0
+[02:49:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas is bleeding...
+[02:49:55] [Server thread/INFO] [tombstone]: The death event of the player Sebas was cancelled by another mod
+[02:49:55] [Server thread/INFO] [tombstone]: Sebas has successfully been saved
+[02:49:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho has reached the goal [Strong or Careful]
+[02:49:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho was slain by Adapted Summoner
+[02:49:58] [Server thread/INFO] [tombstone]: The last known grave of Sancho is at location [name:Last Grave, x:8, y:72, z:151] in the dimension 0
+[02:49:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho has made the advancement [Your First Grave]
+[02:50:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas was slain by Assimilated Wolf
+[02:50:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> Uy
+[02:50:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> me dejas kekin?
+[02:51:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> listo
+[02:51:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] que cosa?
+[02:51:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> nada nada
+[02:51:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> se habian metido parasitos
+[02:51:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] hagan lo que quieran mientras quepa dentro de lo moral y etico
+[02:51:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> jefes
+[02:51:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sancho: Teleported Sancho to Sebas]
+[02:51:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho has reached the goal [Here They Come]
+[02:51:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] como salvar a tu compa el manco por ejemplo
+[02:51:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> soy el salvador
+[02:51:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sancho moved too quickly! 1.3893789777450802,0.756759288177264,9.949907411429166
+[02:52:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho is bleeding...
+[02:52:44] [Server thread/INFO] [tombstone]: The death event of the player Sancho was cancelled by another mod
+[02:52:44] [Server thread/INFO] [tombstone]: Sancho has successfully been saved
+[02:53:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> vrga
+[02:53:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas is bleeding...
+[02:53:23] [Server thread/INFO] [tombstone]: The death event of the player Sebas was cancelled by another mod
+[02:53:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho is bleeding...
+[02:53:28] [Server thread/INFO] [tombstone]: The death event of the player Sancho was cancelled by another mod
+[02:53:28] [Server thread/INFO] [tombstone]: Sancho has successfully been saved
+[02:53:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas was slain by Adapted Longarms
+[02:53:30] [Server thread/INFO] [tombstone]: The last known grave of Sebas is at location [name:Last Grave, x:14, y:72, z:253] in the dimension 0
+[02:53:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho was slain by Adapted Longarms
+[02:53:33] [Server thread/INFO] [tombstone]: The last known grave of Sancho is at location [name:Last Grave, x:12, y:72, z:205] in the dimension 0
+[02:54:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas is bleeding...
+[02:54:02] [Server thread/INFO] [tombstone]: The death event of the player Sebas was cancelled by another mod
+[02:54:02] [Server thread/INFO] [tombstone]: Sebas has successfully been saved
+[02:54:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas was slain by Adapted Longarms
+[02:54:04] [Server thread/INFO] [tombstone]: The last known grave of Sebas is at location [name:Last Grave, x:14, y:72, z:277] in the dimension 0
+[02:54:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas is bleeding...
+[02:54:41] [Server thread/INFO] [tombstone]: The death event of the player Sebas was cancelled by another mod
+[02:54:41] [Server thread/INFO] [tombstone]: Sebas has successfully been saved
+[02:54:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas was slain by Adapted Longarms
+[02:54:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ayuda kekin
+[02:55:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] deja ento a ver que pedo
+[02:55:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho is bleeding...
+[02:55:11] [Server thread/INFO] [tombstone]: The death event of the player Sancho was cancelled by another mod
+[02:55:11] [Server thread/INFO] [tombstone]: Sancho has successfully been saved
+[02:55:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho was slain by Walking Head
+[02:55:15] [Server thread/INFO] [tombstone]: The last known grave of Sancho is at location [name:Last Grave, x:5, y:72, z:231] in the dimension 0
+[02:55:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho is bleeding...
+[02:55:43] [Server thread/INFO] [tombstone]: The death event of the player Sancho was cancelled by another mod
+[02:55:43] [Server thread/INFO] [tombstone]: Sancho has successfully been saved
+[02:55:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho has reached the goal [Chain Death]
+[02:55:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho was slain by Adapted Longarms
+[02:55:49] [Server thread/INFO] [tombstone]: The last known grave of Sancho is at location [name:Last Grave, x:7, y:72, z:231] in the dimension 0
+[02:56:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> ya fue
+[02:56:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> uf
+[02:56:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho is bleeding...
+[02:56:29] [Server thread/INFO] [tombstone]: The death event of the player Sancho was cancelled by another mod
+[02:56:29] [Server thread/INFO] [tombstone]: Sancho has successfully been saved
+[02:56:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> ni me dejan hacer nada
+[02:56:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> murio
+[02:56:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> me andan campeando la tumba-
+[02:57:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ya mate
+[02:57:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> suubete defensa
+[02:57:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas is bleeding...
+[02:57:44] [Server thread/INFO] [tombstone]: The death event of the player Sebas was cancelled by another mod
+[02:57:44] [Server thread/INFO] [tombstone]: Sebas has successfully been saved
+[02:57:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas was slain by Rupter
+[02:57:46] [Server thread/INFO] [tombstone]: The last known grave of Sebas is at location [name:Last Grave, x:-48, y:72, z:261] in the dimension 0

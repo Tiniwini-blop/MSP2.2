@@ -517,6 +517,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/create_magic_scroll": {
+    "criteria": {
+      "has_ingredient": "2025-06-03 02:41:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
       "has_the_recipe": "2025-06-02 00:57:55 +0000"
@@ -844,6 +850,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-06-02 00:57:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-06-03 02:49:27 +0000"
     },
     "done": true
   },
@@ -2317,6 +2329,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:squirrel_kill_100": {
+    "criteria": {
+      "squirrel_kill1": "2025-06-03 02:36:58 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/misc/cyan_dye_from_swampflower": {
     "criteria": {
       "has_the_recipe": "2025-06-02 00:57:55 +0000"
@@ -3046,9 +3064,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2025-06-02 08:17:14 +0000",
+      "skeleton": "2025-06-03 02:43:30 +0000",
+      "husk": "2025-06-03 02:45:46 +0000",
       "zombie": "2025-06-02 01:01:46 +0000",
       "cave_spider": "2025-06-02 07:28:02 +0000",
-      "witch": "2025-06-02 07:28:12 +0000"
+      "witch": "2025-06-02 07:28:12 +0000",
+      "spider": "2025-06-03 02:41:40 +0000"
     },
     "done": false
   },
@@ -3510,6 +3531,7 @@
       "birch_forest": "2025-06-02 08:07:52 +0000",
       "deep_ocean": "2025-06-02 02:10:21 +0000",
       "beaches": "2025-06-02 02:08:46 +0000",
+      "desert_hills": "2025-06-03 02:40:48 +0000",
       "forest_hills": "2025-06-02 08:06:34 +0000",
       "plains": "2025-06-02 01:19:56 +0000",
       "savanna": "2025-06-02 08:07:39 +0000",
@@ -3673,6 +3695,12 @@
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_the_recipe": "2025-06-02 00:57:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/use_true_sight": {
+    "criteria": {
+      "coded_trigger": "2025-06-03 02:42:00 +0000"
     },
     "done": true
   },
@@ -4210,6 +4238,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_the_recipe": "2025-06-02 00:57:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-06-03 02:49:23 +0000"
     },
     "done": true
   },
