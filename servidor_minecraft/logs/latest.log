@@ -13,3 +13,24 @@
 [00:07:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas has made the advancement [Sweet dreams]
 [00:07:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sancho lost connection: Timed out
 [00:07:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho left the game
+[00:12:14] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[00:12:14] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 63 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,hardcoredarkness@2.0,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[00:12:14] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[00:12:14] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[00:12:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:12:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sancho[/127.229.255.23:40719] logged in with entity id 118524 at (6.0111220292277165, 72.0, 147.99065317205236)
+[00:12:19] [Server thread/INFO] [dsurround]: Player [Sancho] connected with Dynamic Surroundings @VERSION@
+[00:12:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho joined the game
+[00:12:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ola
+[00:13:58] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerWorkbench
+[00:13:58] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[00:13:58] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[00:13:58] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[00:13:58] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[00:13:58] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[00:13:58] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[00:13:58] [Server thread/INFO] [Quark ASM]: Patch result: true
+[00:14:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sebas lost connection: Disconnected
+[00:14:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas left the game
+[00:14:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sancho lost connection: Disconnected
+[00:14:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho left the game
