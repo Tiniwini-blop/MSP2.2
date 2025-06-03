@@ -2965,6 +2965,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-03 00:07:03 +0000"
+    },
+    "done": true
+  },
   "dragonmounts:recipes/combat/fire_dragonscale_leggings": {
     "criteria": {
       "has_the_recipe": "2025-06-02 00:57:55 +0000"
