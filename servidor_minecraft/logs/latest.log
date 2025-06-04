@@ -5075,3 +5075,155 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'dragonmounts:dragon_bow_fir
 [03:01:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> yo voy por ella
 [03:01:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> no ya habia sido antes
 [03:01:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> A
+[03:04:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas has made the advancement [Ice Bucket Challenge]
+[03:04:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> pq hasta aorita me da el logro wtf
+[03:05:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> XD
+[03:05:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> pq
+[03:05:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> qn sabe
+[03:05:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> va avanzar mas tontoide
+[03:05:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID cff4f678-0fd0-497b-97b5-412cc4b51559
+[03:05:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> yoyoyoyoyo
+[03:06:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ,e tarda mucho en regenerar la segunda hilera de corazones
+[03:06:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> tu nuv
+[03:06:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> we el mapa
+[03:06:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> hay un vergo de parasitos en el agua
+[03:07:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> simon
+[03:08:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> les bajo 7 de putazon con mano limpia
+[03:08:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> xd
+[03:09:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 has made the advancement [Isn't It Iron Pick]
+[03:09:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> xd
+[03:09:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> y es elogro
+[03:10:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> we la aldeana
+[03:10:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> sebas tengo que ir a hacer de cenar no tardo mucho
+[03:10:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> e la llevaste?
+[03:10:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> no
+[03:10:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> no esta
+[03:10:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> xd
+[03:10:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> oko
+[03:10:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> ni pedo bueno ya regreso o me madrean
+[03:10:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 lost connection: Disconnected
+[03:10:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 left the game
+[03:30:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID f3db6f4c-cd91-48cd-9bb9-b7fecac4c2d2
+[03:33:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 0a1ef073-e565-4c0b-8ed0-1feed344d737
+[03:37:49] [Server thread/WARN] [FML]: Quark loaded a new chunk [-54, -57] in dimension 0 (overworld) while populating chunk [-54, -58], causing cascading worldgen lag.
+[03:37:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:38:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas has made the advancement [Get Badgered]
+[03:39:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 96bbbff8-7bb3-4d1c-b295-e12ded1cdbd0
+[03:42:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sebas moved wrongly!
+[03:44:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 88e5b3f7-05d5-43c6-9aaa-9c63840367dc
+[03:45:11] [Server thread/INFO] [mca]: Villager death: Gaston. Caused by: fall. UUID: 9a34ef8b-f686-450a-91af-7e30803755e2
+[03:48:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sebas moved wrongly!
+[03:48:37] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-156, 38] in dimension 0 (overworld) while populating chunk [-156, 39], causing cascading worldgen lag.
+[03:48:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:48:37] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-156, 37] in dimension 0 (overworld) while populating chunk [-156, 39], causing cascading worldgen lag.
+[03:48:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:49:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sebas moved too quickly! -1.2922204742512804,0.0,-10.138404474419076
+[03:49:49] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'techguns:chests/factory_building'!
+[03:50:09] [Server thread/WARN] [FML]: Quark loaded a new chunk [-42, -71] in dimension 0 (overworld) while populating chunk [-43, -71], causing cascading worldgen lag.
+[03:50:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:50:38] [Server thread/WARN] [FML]: Quark loaded a new chunk [-38, -73] in dimension 0 (overworld) while populating chunk [-39, -74], causing cascading worldgen lag.
+[03:50:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:50:38] [Server thread/WARN] [FML]: Quark loaded a new chunk [-38, -74] in dimension 0 (overworld) while populating chunk [-39, -74], causing cascading worldgen lag.
+[03:50:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:50:38] [Server thread/WARN] [FML]: Quark loaded a new chunk [-37, -73] in dimension 0 (overworld) while populating chunk [-39, -74], causing cascading worldgen lag.
+[03:50:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:50:38] [Server thread/WARN] [FML]: Quark loaded a new chunk [-37, -74] in dimension 0 (overworld) while populating chunk [-39, -74], causing cascading worldgen lag.
+[03:50:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:52:16] [Server thread/WARN] [FML]: The Lost Cities loaded a new chunk [-39, -84] in dimension 0 (overworld) while populating chunk [-40, -83], causing cascading worldgen lag.
+[03:52:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:52:16] [Server thread/WARN] [FML]: The Lost Cities loaded a new chunk [-40, -84] in dimension 0 (overworld) while populating chunk [-40, -83], causing cascading worldgen lag.
+[03:52:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:52:28] [Server thread/WARN] [FML]: Quark loaded a new chunk [-20, -88] in dimension 0 (overworld) while populating chunk [-21, -87], causing cascading worldgen lag.
+[03:52:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:52:31] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-41, -88] in dimension 0 (overworld) while populating chunk [-41, -89], causing cascading worldgen lag.
+[03:52:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:52:31] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-40, -89] in dimension 0 (overworld) while populating chunk [-41, -89], causing cascading worldgen lag.
+[03:52:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:52:31] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-39, -91] in dimension 0 (overworld) while populating chunk [-40, -91], causing cascading worldgen lag.
+[03:52:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:52:31] [Server thread/WARN] [FML]: The Lost Cities loaded a new chunk [-39, -92] in dimension 0 (overworld) while populating chunk [-38, -91], causing cascading worldgen lag.
+[03:52:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:52:39] [Server thread/WARN] [FML]: Quark loaded a new chunk [-17, -92] in dimension 0 (overworld) while populating chunk [-18, -92], causing cascading worldgen lag.
+[03:52:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:52:43] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[03:52:43] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 63 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,hardcoredarkness@2.0,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[03:52:43] [Netty Epoll Server IO #1/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[03:52:43] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[03:52:49] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:52:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sancho[/127.229.21.125:40599] logged in with entity id 21510623 at (9.776466204274096, 72.0, 161.16200357725108)
+[03:52:49] [Server thread/INFO] [dsurround]: Player [Sancho] connected with Dynamic Surroundings @VERSION@
+[03:52:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho joined the game
+[03:52:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> sacho
+[03:52:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> encontre aldea
+[03:52:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> huye de ahi
+[03:53:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> voy
+[03:53:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sebas moved too quickly! -0.07515994815787508,3.158770272378405,-9.896737988058476
+[03:53:24] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-21, -97] in dimension 0 (overworld) while populating chunk [-22, -97], causing cascading worldgen lag.
+[03:53:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:53:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sebas: Teleported Sancho to Sebas]
+[03:53:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> gracias
+[03:53:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> me quiero llevar a todos
+[03:54:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> pero solo a las mujeres
+[03:55:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> nos llevamos a los hombres?
+[03:55:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> pues yo digo pa que defiendan
+[03:55:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ok
+[03:55:47] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[03:55:47] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 61 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,autoreglib@1.3-32,galacticraftcore@4.0.2.281,toughasnails@3.1.0.141,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,foamfix@@VERSION@,voxelmap@1.9.25,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[03:55:47] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [lesslag, securitycraft, advanced_darkness, journeymap, vanillafix] at CLIENT
+[03:55:47] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[03:55:47] [Netty Epoll Server IO #3/INFO] [FML]: Rejecting connection CLIENT: Advanced Darkness: Requires version 1.5 but mod is not found on client.
+SecurityCraft: Requires version v1.8.23.2 but mod is not found on client.
+[03:55:47] [Netty Epoll Server IO #3/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Advanced Darkness: Requires version 1.5 but mod is not found on client.
+SecurityCraft: Requires version v1.8.23.2 but mod is not found on client.
+[03:55:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Zero73092 lost connection: Server Mod rejections:
+Advanced Darkness: Requires version 1.5 but mod is not found on client.
+SecurityCraft: Requires version v1.8.23.2 but mod is not found on client.
+[03:55:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 left the game
+[03:55:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> a caray
+[03:56:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> esta osvaldin?
+[03:56:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> pero en si a donde nos vamos
+[03:56:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> tengo un barco
+[03:56:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> a 2k de bloques del spawn
+[03:57:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> lo tienes marcado?
+[03:57:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> si
+[03:57:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> pues para que te hagas tp y se hagan tp contigo
+[03:57:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> si
+[03:57:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ya vi a mi futura esposa
+[03:57:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> se llama lesley
+[03:57:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> Xd
+[03:58:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> hazme tp
+[03:58:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> cerca hay un guardian
+[03:58:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> voy
+[03:58:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sancho: Teleported Sancho to Sebas]
+[03:59:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> a mimir
+[03:59:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> a por cierto encontre otro huevo de dragonm
+[03:59:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> damn
+[03:59:55] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[03:59:55] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 63 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,toughasnails@3.1.0.141,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,advanced_darkness@1.5,foamfix@@VERSION@,voxelmap@1.9.25,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[03:59:55] [Netty Epoll Server IO #5/INFO] [FML]: Attempting connection with missing mods [lesslag, journeymap, vanillafix] at CLIENT
+[03:59:55] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
+[03:59:56] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:59:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Zero73092[/127.243.83.205:60963] logged in with entity id 22874044 at (223.5, 82.0, 287.5)
+[03:59:56] [Server thread/INFO] [dsurround]: Player [Zero73092] connected with Dynamic Surroundings @VERSION@
+[03:59:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 joined the game
+[04:00:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sebas: Teleported Zero73092 to Sebas]
+[04:00:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> hola osvaldo
+[04:00:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> te hice tp para aca
+[04:00:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zero73092> hola
+[04:00:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> hola osvaldo
+[04:00:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> estamos 2k de bloques del spawn
+[04:00:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> guarda aqui
+[04:00:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zero73092> si me sale la skin ahora si
+[04:00:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> yo sigo con skin de alex
+[04:00:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> espera te doy cosas
+[04:00:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zero73092> como guardo aqui?
+[04:01:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> a puesdes poner waypoint
+[04:01:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ten
+[04:01:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> picale a la b
+[04:02:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> voy a matar al guardian me tiene hasta los heuvos con la fatiga minera
+[04:02:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> me voy a poner a hacer huerto
+[04:02:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ten
+[04:02:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> me voy a casa
+[04:02:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> csar
+[04:02:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> casar
