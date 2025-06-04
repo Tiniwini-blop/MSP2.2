@@ -5227,3 +5227,573 @@ SecurityCraft: Requires version v1.8.23.2 but mod is not found on client.
 [04:02:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> me voy a casa
 [04:02:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> csar
 [04:02:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> casar
+[04:03:53] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2091ms behind, skipping 41 tick(s)
+[04:04:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> eh si mato con la thomson
+[04:04:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sancho moved too quickly! -0.19348585745319724,0.0,-10.087209939956665
+[04:04:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> el alto horno no sirve con minerales de otros mods
+[04:04:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> osvaldo qres venir a un lugar seguro apra que sigas con tu survival
+[04:05:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> donde hay mas papas
+[04:05:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zero73092> bueno
+[04:05:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> tengo 27
+[04:05:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> pasa
+[04:05:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ten
+[04:06:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> dios extrañaba a los normales
+[04:06:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> me voy a casar primero
+[04:06:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> mira
+[04:06:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> primero tengo que cortejarla
+[04:07:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> no me quiere
+[04:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> no se deja
+[04:07:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> diablos
+[04:07:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> le estoy regalando oro y ni asi
+[04:08:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zero73092> quiere mas
+[04:08:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> DX
+[04:08:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zero73092> hasta dejarte sin nada
+[04:08:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> bueno vamos osvaldo
+[04:08:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> maldita fatiga minera
+[04:08:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zero73092> para luego abandonarte
+[04:08:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sebas: Teleported Zero73092 to Sebas]
+[04:09:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zero73092> tienes espada?
+[04:09:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> me voy a meter y salir
+[04:09:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> si
+[04:09:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sancho lost connection: Disconnected
+[04:09:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho left the game
+[04:09:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zero73092> gracias
+[04:09:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> qres matar mobs?
+[04:09:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zero73092> lag?
+[04:09:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> tengo mucha fatiga minera
+[04:09:59] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[04:09:59] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 63 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,hardcoredarkness@2.0,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[04:09:59] [Netty Epoll Server IO #7/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[04:09:59] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[04:10:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> qro romper bloqeus para hacer un fuerte
+[04:10:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:10:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sancho[/127.229.21.125:46291] logged in with entity id 28231048 at (-3330.3066292821895, 69.0, 173.9018585948011)
+[04:10:03] [Server thread/INFO] [dsurround]: Player [Sancho] connected with Dynamic Surroundings @VERSION@
+[04:10:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho joined the game
+[04:10:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> bno aqui esperemos a los zombies
+[04:10:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> listo
+[04:10:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> a mi ya no me bajan casi nada de vida
+[04:11:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> a casi no salen
+[04:11:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ya vienen
+[04:11:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ienes mucho lag Xd
+[04:12:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zero73092> si
+[04:12:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> les bajo 6 con la mano
+[04:12:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> toma la exp
+[04:12:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zero73092> te teletransportas mucho, es mi internet
+[04:12:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> yo ando esperando de chill
+[04:12:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zero73092> mmm, carne de merco
+[04:13:29] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 30202777
+ scent state 0
+ active 0
+ danger 16
+ delay 0
+ total life 1200
+ current life 20
+ targetScent is null false
+ level 1
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:13:31] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 30202777
+ scent state 0
+ active 1
+ danger 16
+ delay 0
+ total life 1200
+ current life 40
+ targetScent is null false
+ level 1
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:13:31] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 30202777
+ scent state 0
+ active 1
+ danger 16
+ delay 0
+ total life 1200
+ current life 60
+ targetScent is null false
+ level 1
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:13:32] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 30202777
+ scent state 0
+ active 1
+ danger 16
+ delay 0
+ total life 1200
+ current life 80
+ targetScent is null false
+ level 1
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:13:33] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 30202777
+ scent state 0
+ active 2
+ danger 16
+ delay 0
+ total life 1200
+ current life 100
+ targetScent is null false
+ level 1
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:13:35] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 30202777
+ scent state 0
+ active 2
+ danger 16
+ delay 0
+ total life 1200
+ current life 120
+ targetScent is null false
+ level 1
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:13:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> verga
+[04:13:36] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 30202777
+ scent state 0
+ active 3
+ danger 16
+ delay 0
+ total life 1200
+ current life 140
+ targetScent is null false
+ level 1
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:13:37] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 30202777
+ scent state 0
+ active 4
+ danger 16
+ delay 0
+ total life 1200
+ current life 160
+ targetScent is null false
+ level 1
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:13:38] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 30202777
+ scent state 0
+ active 4
+ danger 16
+ delay 0
+ total life 1200
+ current life 180
+ targetScent is null false
+ level 1
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:13:38] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 30202777
+ scent state 4
+ active 2
+ danger 16
+ delay 0
+ total life 6000
+ current life 0
+ targetScent is null false
+ level 1
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:13:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> de donde salio ese
+[04:13:39] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 30202777
+ scent state 4
+ active 7
+ danger 16
+ delay 92
+ total life 6100
+ current life 20
+ targetScent is null false
+ level 1
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:13:40] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 30202777
+ scent state 4
+ active 7
+ danger 16
+ delay 72
+ total life 6100
+ current life 40
+ targetScent is null false
+ level 1
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:13:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> lo viste?
+[04:13:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> un parasito
+[04:13:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zero73092> si
+[04:14:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zero73092> salio de la nada
+[04:14:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> subete a 2 bloques y espame
+[04:14:12] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 30202777
+ scent state 4
+ active 7
+ danger 16
+ delay 74
+ total life 6700
+ current life 680
+ targetScent is null false
+ level 1
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:14:15] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 30202777
+ scent state 4
+ active 7
+ danger 16
+ delay 14
+ total life 6700
+ current life 740
+ targetScent is null false
+ level 1
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:14:17] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 30202777
+ scent state 4
+ active 7
+ danger 16
+ delay 81
+ total life 6800
+ current life 780
+ targetScent is null false
+ level 1
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:14:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> se estan transforamndo
+[04:14:22] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 30202777
+ scent state 4
+ active 7
+ danger 16
+ delay 1
+ total life 6800
+ current life 860
+ targetScent is null false
+ level 1
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 4 6
+ loop 103
+ fail 0
+[04:14:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> donde estaba el guardian?
+[04:14:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Zero73092 lost connection: Timed out
+[04:14:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 left the game
+[04:15:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sebas lost connection: Timed out
+[04:15:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas left the game
+[04:15:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> a
+[04:15:40] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[04:15:40] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 63 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,toughasnails@3.1.0.141,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,advanced_darkness@1.5,foamfix@@VERSION@,voxelmap@1.9.25,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[04:15:40] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [lesslag, journeymap, vanillafix] at CLIENT
+[04:15:40] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[04:15:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:15:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Zero73092[/127.243.83.205:45559] logged in with entity id 31425534 at (-3447.1309829189336, 72.0, -449.97767996182665)
+[04:15:42] [Server thread/INFO] [dsurround]: Player [Zero73092] connected with Dynamic Surroundings @VERSION@
+[04:15:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 joined the game
+[04:15:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 has made the advancement [A Strange Grave's Dust]
+[04:15:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 has made the advancement [Getting an Upgrade]
+[04:15:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> a
+[04:16:52] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[04:16:52] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 64 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,waila@1.8.26,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[04:16:52] [Netty Epoll Server IO #1/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[04:16:52] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[04:16:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:16:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sebas[/127.50.243.42:44199] logged in with entity id 32112555 at (-3455.167521367635, 72.0, -434.26332632403705)
+[04:16:55] [Server thread/INFO] [dsurround]: Player [Sebas] connected with Dynamic Surroundings @VERSION@
+[04:16:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas joined the game
+[04:17:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sebas lost connection: Timed out
+[04:17:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas left the game
+[04:17:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Zero73092 lost connection: Timed out
+[04:17:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 left the game
+[04:17:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> ?
+[04:17:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> dios
+[04:17:51] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[04:17:51] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 64 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,waila@1.8.26,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[04:17:51] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[04:17:51] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[04:17:53] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:17:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sebas[/127.50.243.42:56517] logged in with entity id 32628082 at (-3457.0458418567137, 63.0, -436.1073220895289)
+[04:17:53] [Server thread/INFO] [dsurround]: Player [Sebas] connected with Dynamic Surroundings @VERSION@
+[04:17:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas joined the game
+[04:17:54] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[04:17:54] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 63 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,toughasnails@3.1.0.141,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,advanced_darkness@1.5,foamfix@@VERSION@,voxelmap@1.9.25,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[04:17:54] [Netty Epoll Server IO #4/INFO] [FML]: Attempting connection with missing mods [lesslag, journeymap, vanillafix] at CLIENT
+[04:17:54] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
+[04:17:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:17:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Zero73092[/127.243.83.205:56967] logged in with entity id 32650966 at (-3447.7493856643996, 74.0, -463.6955908502911)
+[04:17:55] [Server thread/INFO] [dsurround]: Player [Zero73092] connected with Dynamic Surroundings @VERSION@
+[04:17:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 joined the game
+[04:18:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> aa
+[04:18:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> me atacaban cosas invisibles
+[04:18:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 is bleeding...
+[04:18:50] [Server thread/INFO] [tombstone]: The death event of the player Zero73092 was cancelled by another mod
+[04:18:50] [Server thread/INFO] [tombstone]: Zero73092 has successfully been saved
+[04:19:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sebas lost connection: Timed out
+[04:19:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas left the game
+[04:19:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Zero73092 lost connection: Timed out
+[04:19:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 left the game
+[04:19:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 was slain by Zombie
+[04:19:10] [Server thread/INFO] [tombstone]: The last known grave of Zero73092 is at location [name:Last Grave, x:-3445, y:72, z:-485] in the dimension 0
+[04:19:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 has made the advancement [Your First Grave]
+[04:20:24] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[04:20:24] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 64 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,waila@1.8.26,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[04:20:24] [Netty Epoll Server IO #7/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[04:20:24] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[04:20:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:20:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sebas[/127.50.243.42:34539] logged in with entity id 33952816 at (-3447.385713171621, 72.0, -451.54681280851344)
+[04:20:25] [Server thread/INFO] [dsurround]: Player [Sebas] connected with Dynamic Surroundings @VERSION@
+[04:20:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas joined the game
+[04:20:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> se murio osvladin
+[04:20:36] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 31441195
+ scent state 4
+ active 10
+ danger 16
+ delay 0
+ total life 7600
+ current life 1720
+ targetScent is null false
+ level 1
+ targetScent name class net.minecraft.entity.monster.EntityZombie
+ min max mob 0 0
+ loop 103
+ fail 0
+[04:20:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> donde andan
+[04:20:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> el lag
+[04:20:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sancho: Teleported Sancho to Sebas]
+[04:21:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:21:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> lo mato el lag
+[04:21:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sancho lost connection: Timed out
+[04:21:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho left the game
+[04:21:34] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[04:21:34] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 63 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,hardcoredarkness@2.0,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[04:21:34] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[04:21:34] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[04:21:38] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:21:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sancho[/127.229.21.125:56495] logged in with entity id 34296494 at (-3441.7671258719497, 72.0, -479.5456353544128)
+[04:21:38] [Server thread/INFO] [dsurround]: Player [Sancho] connected with Dynamic Surroundings @VERSION@
+[04:21:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho joined the game
+[04:22:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> el lag anda tremendo vdd
+[04:22:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> pero son nuestros modems feos
+[04:22:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> toco proteger la tumba de osvaldin
+[04:22:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> escuchas eso?
+[04:22:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> que cosa
+[04:23:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> parsito
+[04:23:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> uy
+[04:23:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> se escucha una respiracion fuerte
+[04:23:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> o uiza sea el clima
+[04:24:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> cuanto ahces de daño
+[04:24:21] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 31441195
+ scent state 4
+ active 7
+ danger 16
+ delay 55
+ total life 7000
+ current life 1020
+ targetScent is null false
+ level 1
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 0 0
+ loop 103
+ fail 0
+[04:24:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> no me acuerdo
+[04:24:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> mira aca hay mobs
+[04:24:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> en si ando enfocado en la defensa
+[04:24:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> mira yo
+[04:24:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> a pura mano
+[04:24:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> XD
+[04:25:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> ya los vi
+[04:25:17] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 31441195
+ scent state 4
+ active 7
+ danger 16
+ delay 5
+ total life 8000
+ current life 2140
+ targetScent is null false
+ level 1
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 0 0
+ loop 103
+ fail 0
+[04:25:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> vrgh
+[04:25:43] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[04:25:43] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 63 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,toughasnails@3.1.0.141,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,advanced_darkness@1.5,foamfix@@VERSION@,voxelmap@1.9.25,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[04:25:43] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [lesslag, journeymap, vanillafix] at CLIENT
+[04:25:43] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[04:25:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:25:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Zero73092[/127.243.83.205:53429] logged in with entity id 34570323 at (-3444.3235941509, 72.0, -484.41398140722686)
+[04:25:44] [Server thread/INFO] [dsurround]: Player [Zero73092] connected with Dynamic Surroundings @VERSION@
+[04:25:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 joined the game
+[04:25:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> amonos mejor
+[04:26:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sebas: Teleported Zero73092 to Sebas]
+[04:26:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sancho was kicked for floating too long!
+[04:26:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sancho lost connection: Flying is not enabled on this server
+[04:26:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho left the game
+[04:26:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ve a tumba rapido
+[04:26:22] [Server thread/WARN] [FML]: Techguns loaded a new chunk [-241, -17] in dimension 0 (overworld) while populating chunk [-240, -16], causing cascading worldgen lag.
+[04:26:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:26:22] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-241, -10] in dimension 0 (overworld) while populating chunk [-240, -10], causing cascading worldgen lag.
+[04:26:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:26:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> aqui ya no es seguro
+[04:26:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> mira
+[04:26:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sebas: Teleported Zero73092 to Sebas]
+[04:26:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> aqui quedate
+[04:26:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> lo ves?
+[04:26:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zero73092> si
+[04:26:55] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[04:26:55] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 63 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,hardcoredarkness@2.0,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[04:26:55] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[04:26:55] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[04:26:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ya no es seguro
+[04:26:59] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:26:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sancho[/127.229.21.125:44683] logged in with entity id 34668767 at (-3485.7085162797594, 71.82299147155743, -416.7925922498107)
+[04:26:59] [Server thread/INFO] [dsurround]: Player [Sancho] connected with Dynamic Surroundings @VERSION@
+[04:26:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho joined the game
+[04:27:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zero73092> esa cosa es super peligrosa
+[04:27:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sebas: Teleported Sancho to Sebas]
+[04:27:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> vente beli
+[04:27:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho is bleeding...
+[04:27:19] [Server thread/INFO] [tombstone]: The death event of the player Sancho was cancelled by another mod
+[04:27:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho is bleeding...
+[04:27:19] [Server thread/INFO] [tombstone]: The death event of the player Sancho was cancelled by another mod
+[04:27:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho is bleeding...
+[04:27:19] [Server thread/INFO] [tombstone]: The death event of the player Sancho was cancelled by another mod
+[04:27:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> no podras
+[04:27:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> pues tenias razon-
+[04:27:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sebas: Teleported Sancho to Sebas]
+[04:27:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> a mi me matan y soy mas fuerte q ustedes xd
+[04:28:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> amos a farmear mejor
+[04:28:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas is bleeding...
+[04:28:24] [Server thread/INFO] [tombstone]: The death event of the player Sebas was cancelled by another mod
+[04:28:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 has made the advancement [Monster Hunter]
+[04:28:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> diablos
+[04:28:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho is bleeding...
+[04:28:29] [Server thread/INFO] [tombstone]: The death event of the player Sancho was cancelled by another mod
+[04:28:29] [Server thread/INFO] [tombstone]: Sancho has successfully been saved
+[04:28:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> hazme tp beli
+[04:28:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 is bleeding...
+[04:28:31] [Server thread/INFO] [tombstone]: The death event of the player Zero73092 was cancelled by another mod
+[04:28:31] [Server thread/INFO] [tombstone]: Zero73092 has successfully been saved
+[04:28:32] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[04:28:32] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 65 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,skinlayers3d@1.2.0,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,controllable@0.11.2,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[04:28:32] [Netty Epoll Server IO #5/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[04:28:32] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
+[04:28:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:28:35] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Kevin070507[/127.85.151.59:54601] logged in with entity id 34774430 at (-3334.8809505929853, 63.0, 167.53600487634444)
+[04:28:35] [Server thread/INFO] [dsurround]: Player [Kevin070507] connected with Dynamic Surroundings @VERSION@
+[04:28:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 joined the game
+[04:28:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> hXDD
+[04:28:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> repampanos
+[04:28:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 was slain by Feral Human
+[04:28:40] [Server thread/INFO] [tombstone]: The last known grave of Zero73092 is at location [name:Last Grave, x:-3443, y:72, z:-432] in the dimension 0
+[04:28:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> KEVIN
+[04:28:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> hazm
+[04:28:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> NECESITAMOS UN HEROE
+[04:28:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> tp
+[04:28:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> HAY WEY
+[04:28:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> kevin
+[04:28:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> tp
+[04:28:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Kevin070507 to Kevin070507]
+[04:28:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Sebas to Kevin070507]
+[04:28:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Sancho to Kevin070507]
+[04:28:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Zero73092 to Kevin070507]
+[04:29:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> XD
+[04:29:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> PQ ME ESTA DANDO TODOS LOS EFECTOS DEL MUNDO
+[04:29:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> osvaldo donde quedaron tus cosas
+[04:29:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> Hay que ir por la tumba de osvaldo
+[04:29:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Cooked Porkchop] * 64 to Kevin070507]
+[04:29:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zero73092> en donde mori
+[04:29:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> pasa las coord
+[04:29:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Milk] * 1 to Kevin070507]
+[04:29:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> denle admin para que se haga tp a su tumba
+[04:29:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Golden Apple] * 1 to Kevin070507]
+[04:29:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> y si lo tiran le hacemos tp
+[04:30:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> hay que poner un mod para otoorgar exp
+[04:30:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Opped Zero73092]
+[04:30:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> ya
+[04:30:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> osvaldo es admin
+[04:30:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> mmm me pregunto si
+[04:30:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> picale a la j
+[04:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Zero73092: Teleported Zero73092 to -3442.5, 71.0, -431.5]
+[04:30:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> we ya no les hago nada de daño
+[04:30:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> ah ya
+[04:30:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> esta echo pija
+[04:30:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Golden Apple] * 1 to Kevin070507]
+[04:30:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> a mimir primero
+[04:30:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Zero73092: Teleported Zero73092 to -3330.5, 66.0, 168.5]
+[04:31:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Milk] * 1 to Kevin070507]
+[04:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> hay que ir por las cosas de osvaldo-
+[04:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> a por cierto kekin me traje a toda la aldea XD
+[04:31:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> ya vi penejo
+[04:31:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zero73092> hay que dormir
+[04:31:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Zero73092 lost connection: Disconnected
+[04:31:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 left the game
+[04:31:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> NOOOOOOOOOOOO
+[04:31:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> pobre osvaldo con su lag
+[04:31:52] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[04:31:52] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 63 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,toughasnails@3.1.0.141,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,advanced_darkness@1.5,foamfix@@VERSION@,voxelmap@1.9.25,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[04:31:52] [Netty Epoll Server IO #7/INFO] [FML]: Attempting connection with missing mods [lesslag, journeymap, vanillafix] at CLIENT
+[04:31:52] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[04:31:53] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:31:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Zero73092[/127.243.83.205:33399] logged in with entity id 36595433 at (-3331.9665123494624, 66.0, 160.51819397897793)
+[04:31:53] [Server thread/INFO] [dsurround]: Player [Zero73092] connected with Dynamic Surroundings @VERSION@
+[04:31:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 joined the game
+[04:32:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Zero73092: Teleported Zero73092 to -3442.5, 71.0, -431.5]
+[04:32:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sebas: Teleported Zero73092 to Sebas]
+[04:32:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sancho moved too quickly! 0.5549941059252887,2.0,9.837969480543876
+[04:32:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ya
+[04:32:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ningun lugar es seguro ya
+[04:32:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zero73092> casi vuelvo a morir
+[04:32:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> quisiera darte mi exp
+[04:33:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> tengo 14 niveles
+[04:33:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> esta echo popo todo ya
+[04:33:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sancho> ya me arto el guardian ya me lo voy a matar
+[04:33:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> pero no puedo subir lo importante
+[04:33:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Zero73092> no te apures ahi subo
+[04:33:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> amonos osvaldo
+[04:33:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Zero73092: Teleported Zero73092 to -3330.5, 66.0, 168.5]
+[04:33:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> kekin mata al guardian
+[04:33:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> me tiene hasta los huevos
+[04:34:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> no puedo es imposible sin leches
+[04:34:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Kevin070507> por eso te adverti
