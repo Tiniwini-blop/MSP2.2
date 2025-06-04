@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-04 04:37:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "zombie": "2025-06-04 04:28:26 +0000"
@@ -46,6 +52,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-06-04 04:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-04 04:43:52 +0000"
     },
     "done": true
   },
@@ -244,6 +256,12 @@
   "tombstone:tutorial/first_grave": {
     "criteria": {
       "coded_trigger": "2025-06-04 04:19:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-06-04 04:37:44 +0000"
     },
     "done": true
   },
