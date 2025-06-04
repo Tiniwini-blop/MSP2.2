@@ -231,7 +231,9 @@
     "criteria": {
       "cooked_porkchop": "2025-06-02 01:44:29 +0000",
       "cooked_beef": "2025-06-02 01:33:54 +0000",
+      "baked_potato": "2025-06-03 05:14:54 +0000",
       "golden_apple": "2025-06-02 07:34:04 +0000",
+      "bread": "2025-06-03 05:40:55 +0000",
       "cooked_chicken": "2025-06-02 01:57:17 +0000"
     },
     "done": false
@@ -446,15 +448,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
-      "has_sand": "2025-06-03 04:01:31 +0000"
+      "has_stone_slab": "2025-06-04 03:01:35 +0000"
     },
     "done": true
   },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-06-03 03:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-03 04:01:31 +0000"
     },
     "done": true
   },
@@ -1046,6 +1054,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-06-02 01:02:13 +0000",
+      "swampland": "2025-06-04 02:43:25 +0000",
+      "birch_forest": "2025-06-04 02:43:59 +0000",
       "deep_ocean": "2025-06-02 02:10:36 +0000",
       "beaches": "2025-06-02 02:10:04 +0000",
       "forest_hills": "2025-06-02 02:08:02 +0000",

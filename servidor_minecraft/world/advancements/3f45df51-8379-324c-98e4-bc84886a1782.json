@@ -935,6 +935,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-03 06:02:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2025-06-02 00:34:52 +0000"
@@ -1370,6 +1376,12 @@
   "dragonmounts:recipes/combat/ice_dragon_axe": {
     "criteria": {
       "has_the_recipe": "2025-06-02 00:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-03 05:56:03 +0000"
     },
     "done": true
   },
@@ -1880,6 +1892,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_the_recipe": "2025-06-02 00:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-03 05:56:03 +0000"
     },
     "done": true
   },
@@ -3922,6 +3940,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-02 01:44:12 +0000",
+      "cooked_mutton": "2025-06-03 04:17:07 +0000",
       "cooked_beef": "2025-06-02 01:40:11 +0000",
       "baked_potato": "2025-06-02 03:46:12 +0000",
       "apple": "2025-06-02 01:55:33 +0000",
