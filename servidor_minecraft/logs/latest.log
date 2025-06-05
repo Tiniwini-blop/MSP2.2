@@ -6076,3 +6076,7 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'dragonmounts:dragon_bow_fir
 [01:06:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 91b42202-fe23-4680-89a5-fa1085f0b4d9
 [01:08:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID e594e454-3d48-450e-9e83-6ed5d5070f95
 [01:13:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 2cc013c0-7f39-4c87-8b2c-d7f7732c9e2e
+[01:14:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 17bea211-8088-483c-9ec8-691ad5259ad4
+[01:14:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID f6532839-8b99-4013-9478-c5c748aadb4e
+[01:17:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID a093ee19-36bc-4f79-8520-609ffc423d84
+[01:18:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 2a6d9dc9-afb8-4f3f-9136-f75270f2c96c
