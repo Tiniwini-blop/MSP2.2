@@ -4921,3 +4921,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'dragonmounts:dragon_bow_fir
 [05:32:32] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sebas[/127.50.243.42:41465] logged in with entity id 8982019 at (-3332.126153464429, 67.0, 161.93186554780394)
 [05:32:32] [Server thread/INFO] [dsurround]: Player [Sebas] connected with Dynamic Surroundings @VERSION@
 [05:32:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas joined the game
+[05:38:42] [Server thread/WARN] [FML]: Quark loaded a new chunk [-175, -62] in dimension 0 (overworld) while populating chunk [-176, -61], causing cascading worldgen lag.
+[05:38:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
