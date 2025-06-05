@@ -485,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-04 22:25:31 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_the_recipe": "2025-06-02 00:34:53 +0000"
@@ -3495,12 +3501,16 @@
       "birch_forest": "2025-06-04 04:23:17 +0000",
       "deep_ocean": "2025-06-02 02:10:29 +0000",
       "beaches": "2025-06-02 02:10:01 +0000",
+      "extreme_hills_with_trees": "2025-06-04 22:25:49 +0000",
       "mesa": "2025-06-04 22:14:45 +0000",
       "forest_hills": "2025-06-02 03:23:39 +0000",
       "plains": "2025-06-02 01:20:02 +0000",
       "ocean": "2025-06-02 02:09:59 +0000",
+      "extreme_hills": "2025-06-04 22:21:05 +0000",
       "roofed_forest": "2025-06-04 03:58:08 +0000",
-      "river": "2025-06-02 01:19:57 +0000"
+      "river": "2025-06-02 01:19:57 +0000",
+      "desert": "2025-06-04 22:18:28 +0000",
+      "stone_beach": "2025-06-04 22:25:54 +0000"
     },
     "done": false
   },
