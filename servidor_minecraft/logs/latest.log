@@ -4979,3 +4979,1065 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'dragonmounts:dragon_bow_fir
 [00:10:48] [Server thread/INFO] [dsurround]: Player [Sancho] connected with Dynamic Surroundings @VERSION@
 [00:10:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho joined the game
 [00:11:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sancho: Set own game mode to Survival Mode]
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 6.719058800117637,0.0,7.9282738674383495
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 6.980315020755825,0.0,8.231095079974864
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 7.241642148778283,0.0,8.533862320634341
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 7.503033093444628,0.0,8.836580986605782
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 7.764481473088836,0.0,9.139255935359131
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 8.0259815442123,0.0,9.441891538617199
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 8.287528137665504,0.0,9.74449173093052
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 8.549116601214337,0.0,10.047060053394375
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 8.810742747848053,0.0,10.349599692994445
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 9.07240280925771,0.0,10.652113518017813
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 9.334093393964395,0.0,10.954604109922798
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 9.59581144963795,0.0,11.257073792021743
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 9.857554229181005,0.0,11.559524655295775
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 10.119319260205884,0.0,11.861958581627846
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 10.381104317564223,0.0,12.164377264712584
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 10.642907398621901,0.0,12.466782228875047
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 10.904726701008713,0.0,12.769174846007786
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 11.16656060259129,0.0,13.071556350814035
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 11.428407643449646,0.0,13.373927854526755
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 11.690266509655885,0.0,13.676290357255539
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 11.952136018674992,0.0,13.978644759098984
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 12.214015106225816,0.0,14.280991870145783
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 12.475902814454457,0.0,14.583332419475823
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 12.737284513469604,0.0,14.886104773695138
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 12.99773739431339,0.0,15.189656097535192
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 13.256874994546251,0.0,15.494291533951753
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 13.514441171788803,0.0,15.800203775700254
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 13.770250846446743,0.0,16.107524694368067
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 14.024134682724707,0.0,16.41636928261795
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 14.275987388431076,0.0,16.726801523414736
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 14.525712220605328,0.0,17.038876252161003
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 14.773320977926232,0.0,17.352570080699422
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 15.018772819907554,0.0,17.667895438872847
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 15.262080525296824,0.0,17.984827244113205
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 15.503305767177153,0.0,18.303307591456644
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 15.74245240575965,0.0,18.623317514070152
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 15.979625794473122,0.0,18.944771526848115
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 16.21486911515194,0.0,19.267625837105356
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 16.448272355467907,0.0,19.59180710148223
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 16.67986461102919,0.0,19.917282056258443
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 16.9097752435232,0.0,20.243954319808836
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 17.138068787033717,0.0,20.57176989397476
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 17.364803119206044,0.0,20.90067986376505
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 17.590082171060203,0.0,21.230607378430648
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 17.813999432082255,0.0,21.561483190342983
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 18.036638990653955,0.0,21.893244898406806
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 18.2580764778877,0.0,22.225836263406734
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 18.478379911491174,0.0,22.559206588094014
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 18.697610458971667,0.0,22.893310162989508
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 18.915823120792084,0.0,23.22810577505726
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 19.13306734893922,0.0,23.563556246884218
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 19.3494399868041,0.0,23.89959609247893
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 19.565601174747826,0.0,24.235809666728528
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 19.78203632952227,0.0,24.571880582612323
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 19.99917815572917,0.0,24.907517717847554
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 20.217361390924907,0.0,25.24248767634134
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 20.436833813047087,0.0,25.576610941545596
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 20.657815758651395,0.0,25.90972217857751
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 20.880404092839854,0.0,26.241741727434487
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 21.104140632191502,0.0,26.572995565130157
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 21.32805683138531,0.0,26.904159565150337
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 21.55136868181262,0.0,27.235752863694074
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 21.773411231700265,0.0,27.568192660129966
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 21.993681907852533,0.0,27.901776225135336
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 22.21235789768525,0.0,28.236389181825984
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 22.430228173148407,0.0,28.571546670522082
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 16.19001108551447,0.0,21.281474478824578
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 16.408004031326072,0.0,21.616606677994696
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 16.62670029154424,0.0,21.95129575904224
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 16.84643366165392,0.0,22.285307404427385
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 17.067451217013968,0.0,22.61846150299317
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 17.28992307638282,0.0,22.9506283721787
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 17.513951068018287,0.0,23.28172511586763
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 17.739625436639926,0.0,23.611675231384424
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 17.967025988746173,0.0,23.940407988776656
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 18.19617463315626,0.0,24.267895464073376
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 18.427041850644855,0.0,24.594149156480853
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 18.65964869243362,0.0,24.91914070206775
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 18.893965264202507,0.0,25.242881734929824
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 19.12991634591208,0.0,25.5654205523507
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 19.367481671787118,0.0,25.886761692600885
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 19.606594976188262,0.0,26.206947435525137
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 19.84719638348497,0.0,26.526015542410107
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 20.08923176533108,0.0,26.843999707840226
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 20.332604977681513,0.0,27.160969182499002
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 20.57727655994222,0.0,27.476946928720054
+[00:14:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 20.82316374599668,0.0,27.79199275981614
+[00:14:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 21.070191986737427,0.0,28.10616043512414
+[00:14:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 21.31829412650177,0.0,28.419498263540163
+[00:14:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 21.567409665591185,0.0,28.732049652289106
+[00:14:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 21.817484090948255,0.0,29.043853597091754
+[00:14:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 22.068468283080165,0.0,29.354945121452772
+[00:14:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 22.32027126528783,0.0,29.665395467433314
+[00:14:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 22.572857864371144,0.0,29.975228961198354
+[00:14:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 22.826149718623583,0.0,30.284507287984184
+[00:14:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 23.080122948734243,0.0,30.59324610017046
+[00:14:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 23.334709417101294,0.0,30.901499349229994
+[00:14:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 lost connection: Disconnected
+[00:14:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 left the game
+[00:14:25] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[00:14:25] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 65 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,skinlayers3d@1.2.0,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,controllable@0.11.2,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[00:14:25] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[00:14:25] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[00:14:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:14:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Kevin070507[/127.107.68.208:52923] logged in with entity id 5098160 at (-3322.315767726374, 63.0, 167.85534238349646)
+[00:14:27] [Server thread/INFO] [dsurround]: Player [Kevin070507] connected with Dynamic Surroundings @VERSION@
+[00:14:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 joined the game
+[00:16:01] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-165, 13] in dimension 0 (overworld) while populating chunk [-166, 13], causing cascading worldgen lag.
+[00:16:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 3.1024484160657266,0.0,-9.899826227749685
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 3.1687874736016965,0.0,-10.290554212003599
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 3.2272349668455718,0.0,-10.682191495053075
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 3.2779056455328828,0.0,-11.074621267405163
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 3.3209645666170218,0.0,-11.467730882883188
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 3.356622051554041,0.0,-11.86141426606504
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 3.3851902043220434,0.0,-12.255579160273598
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 3.4069503250152593,0.0,-12.650137941218702
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 3.422156038896901,0.0,-13.045007153758377
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 3.431157965856528,0.0,-13.440121467153844
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 3.4342110649554343,0.0,-13.83541214839255
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 3.4316668417154688,0.0,-14.230830208642814
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 3.4238418494696816,0.0,-14.62633006411589
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 3.411021195291596,0.0,-15.021869203012159
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 3.3934616939363877,0.0,-15.417407870871557
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 3.371455313599654,0.0,-15.81291826452751
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 3.3453255381023155,0.0,-16.20838418261819
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 3.3153030120784024,0.0,-16.60378082917235
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 3.2816559568996126,0.0,-16.999095171239873
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 3.2446258341924477,0.0,-17.394315110362214
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 3.2044300232105343,0.0,-17.789429385397966
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -0.06461905294145254,0.0,-10.253192159180358
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -0.11948898892660509,0.0,-10.647626313286011
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -0.17622368470392757,0.0,-11.041946865683585
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -0.2346969692489438,0.0,-11.436153944796345
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -0.29479527187913845,0.0,-11.830247576798257
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -0.3563560907473402,0.0,-12.224239106403118
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -0.41929344426944226,0.0,-12.618127325838287
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -0.48346967894758563,0.0,-13.011922566123218
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -0.5488211590159153,0.0,-13.405622614028118
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -0.6152303599074003,0.0,-13.799236988793254
+[00:16:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -0.68265174419912,0.0,-14.192762657180666
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -1.7584812531836178,0.0,-10.22981452035063
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.380492905516803,0.0,23.229633133388205
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.380492905516803,0.0,23.229633133388205
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.380492905516803,0.0,23.229633133388205
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.380492905516803,0.0,23.229633133388205
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.380492905516803,0.0,23.229633133388205
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.380492905516803,0.0,23.229633133388205
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.380492905516803,0.0,23.229633133388205
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.380492905516803,0.0,23.229633133388205
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.380492905516803,0.0,23.229633133388205
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.380492905516803,0.0,23.229633133388205
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.380492905516803,0.0,23.229633133388205
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.380492905516803,0.0,23.229633133388205
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.380492905516803,0.0,23.229633133388205
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.380492905516803,0.0,23.229633133388205
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.380492905516803,0.0,23.229633133388205
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.380492905516803,0.0,23.229633133388205
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.380492905516803,0.0,23.229633133388205
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.380492905516803,0.0,23.229633133388205
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.380492905516803,0.0,23.229633133388205
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.380492905516803,0.0,23.229633133388205
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.380492905516803,0.0,23.229633133388205
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.312484862855399,0.0,22.836340292992162
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.368738858398501,0.0,13.370988976194383
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.368738858398501,0.0,13.370988976194383
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.368738858398501,0.0,13.370988976194383
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.368738858398501,0.0,13.370988976194383
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.368738858398501,0.0,13.370988976194383
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.368738858398501,0.0,13.370988976194383
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.368738858398501,0.0,13.370988976194383
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.368738858398501,0.0,13.370988976194383
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.368738858398501,0.0,13.370988976194383
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.368738858398501,0.0,13.370988976194383
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.368738858398501,0.0,13.370988976194383
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.3003608862318288,0.0,12.977662469651051
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.2316499775192824,0.0,12.584305663575947
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.1626394259233166,0.0,12.190921587922986
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.0933591957395947,0.0,11.797512969650597
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 2.0238362548334408,0.0,11.404082263021309
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 1.9540948742828732,0.0,11.010631676871327
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 1.8841568980574266,0.0,10.617163199153211
+[00:16:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 1.8140419857290908,0.0,10.223678619024184
+[00:16:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Oak Boat] * 1 to Kevin070507]
+[00:17:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho is bleeding...
+[00:17:49] [Server thread/INFO] [tombstone]: The death event of the player Sancho was cancelled by another mod
+[00:17:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Sancho to Kevin070507]
+[00:18:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho is bleeding...
+[00:18:39] [Server thread/INFO] [tombstone]: The death event of the player Sancho was cancelled by another mod
+[00:18:39] [Server thread/INFO] [tombstone]: Sancho has successfully been saved
+[00:18:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 moved wrongly!
+[00:19:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Sancho to Kevin070507]
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -6.506379189021118,-8.322092526213964E-8,8.067571743854842
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -6.76221219063882,-8.380346372405256E-8,8.374389447995668
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -7.018519036210364,-8.428447273445272E-8,8.680833756992968
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -7.2762614926682545,-8.464986933631735E-8,8.986043982577371
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -7.536622226450618,-8.48985735046881E-8,9.288865184852568
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -7.800523036935374,-8.503935333692425E-8,9.588289338900381
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -8.068581108862418,-8.508763471581915E-8,9.883547797529616
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -8.341272615678008,-8.50625880843836E-8,10.173962157666722
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -8.618435321547167,-8.498459180827922E-8,10.459628696868037
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -8.89950974797739,-8.487329239414976E-8,10.741168178428723
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -9.183991693786538,-8.474614077158549E-8,11.01913877334681
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -7.40222087045322,-1.7718448930281738E-9,7.224785573052316
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -7.705851719056682,-1.7852670453066821E-9,7.483830374603485
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -8.009706401826861,-1.7944259411706298E-9,7.742700467114844
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -8.313722957858317,-1.799641324851109E-9,8.001460271328199
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -8.617885199820648,-1.80147452510937E-9,8.260120816075926
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -8.922178559117128,-1.8006147683991003E-9,8.51869202730694
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -9.226550277609476,-1.7978081245928479E-9,8.777229726741496
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -9.530992519376468,-1.7937722418537305E-9,9.03573726555993
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -9.835498232088412,-1.7891395032165747E-9,9.294217659824596
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -10.140021345879177,-1.7844428157332004E-9,9.552720452753249
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -7.912664822557872,-2.076916416626773E-11,6.727604285018515
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -8.216945914005919,-2.0961010704922955E-11,6.986712588024261
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -8.52118721264469,-2.1032064978498966E-11,7.24587397378906
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -8.825392697755888,-2.100364326906856E-11,7.505083134035772
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -9.129565950693177,-2.0904167286062147E-11,7.764335291314978
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -9.433710194674859,-2.0754953311552526E-11,8.023626145922492
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -9.737828330597495,-2.0584423054970102E-11,8.282951828124567
+[00:20:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! -10.041922969267034,-2.0413892798387678E-11,8.542308855160854
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 22.916187973477463,1.7742962654665462E-9,-20.438803025851996
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 22.916187973477463,1.7742962654665462E-9,-20.438803025851996
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 22.916187973477463,1.7742962654665462E-9,-20.438803025851996
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 22.916187973477463,1.7742962654665462E-9,-20.438803025851996
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 22.916187973477463,1.7742962654665462E-9,-20.438803025851996
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 22.916187973477463,1.7742962654665462E-9,-20.438803025851996
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 22.916187973477463,1.7742962654665462E-9,-20.438803025851996
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 22.916187973477463,1.7742962654665462E-9,-20.438803025851996
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 22.916187973477463,1.7742962654665462E-9,-20.438803025851996
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 22.916187973477463,1.7742962654665462E-9,-20.438803025851996
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 22.916187973477463,1.7742962654665462E-9,-20.438803025851996
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 22.61707885860642,1.6287202697640168E-9,-20.17445688707039
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 15.817349246990943,2.007993771258043E-11,-13.473256375511312
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 15.817349246990943,2.007993771258043E-11,-13.473256375511312
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 15.817349246990943,2.007993771258043E-11,-13.473256375511312
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 15.817349246990943,2.007993771258043E-11,-13.473256375511312
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 15.817349246990943,2.007993771258043E-11,-13.473256375511312
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 15.817349246990943,2.007993771258043E-11,-13.473256375511312
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 15.817349246990943,2.007993771258043E-11,-13.473256375511312
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 15.817349246990943,2.007993771258043E-11,-13.473256375511312
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 15.817349246990943,2.007993771258043E-11,-13.473256375511312
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 15.817349246990943,2.007993771258043E-11,-13.473256375511312
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 15.517485185570422,-9.075051821128E-11,-13.20970916182543
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 15.216941672273606,-1.6642331956973067E-10,-12.946880980706652
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 14.915786652303723,-2.0951773649358074E-10,-12.684699928881145
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 14.614081276342858,-2.2464519133791327E-10,-12.42310129340413
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 8.209009730114758,-3.552713678800501E-13,-7.00470141265356
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 8.209009730114758,-3.552713678800501E-13,-7.00470141265356
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 8.209009730114758,-3.552713678800501E-13,-7.00470141265356
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 8.209009730114758,-3.552713678800501E-13,-7.00470141265356
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 8.209009730114758,-3.552713678800501E-13,-7.00470141265356
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 8.209009730114758,-3.552713678800501E-13,-7.00470141265356
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 8.209009730114758,-3.552713678800501E-13,-7.00470141265356
+[00:20:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 8.209009730114758,-3.552713678800501E-13,-7.00470141265356
+[00:20:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of Sancho) moved too quickly! 7.907046711021849,-1.1667111721180845E-11,-6.743345435413772
+[00:20:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[00:20:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[00:20:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[00:21:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given 1000 experience to Sancho]
+[00:21:52] [Server thread/WARN] [FML]: Quark loaded a new chunk [-194, 104] in dimension 0 (overworld) while populating chunk [-194, 105], causing cascading worldgen lag.
+[00:21:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:22:22] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'techguns:chests/gasstation'!
+[00:23:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 moved wrongly!
+[00:24:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 moved wrongly!
+[00:25:14] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[00:25:14] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 62 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,advanced_darkness@1.5,foamfix@@VERSION@,voxelmap@1.9.25,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[00:25:14] [Netty Epoll Server IO #7/INFO] [FML]: Attempting connection with missing mods [lesslag, journeymap, vanillafix] at CLIENT
+[00:25:14] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[00:25:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:25:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Zero73092[/127.107.68.208:53335] logged in with entity id 10315618 at (-654.5151304389707, 65.0, -128.7492469440895)
+[00:25:15] [Server thread/INFO] [dsurround]: Player [Zero73092] connected with Dynamic Surroundings @VERSION@
+[00:25:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 joined the game
+[00:25:40] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[00:25:40] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 63 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,advanced_darkness@1.5,foamfix@@VERSION@,voxelmap@1.9.25,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[00:25:40] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [lesslag, journeymap, vanillafix] at CLIENT
+[00:25:40] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[00:25:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:25:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sebas[/127.107.68.208:57435] logged in with entity id 10427303 at (-3331.4954103510827, 66.0, 160.6846962448419)
+[00:25:43] [Server thread/INFO] [dsurround]: Player [Sebas] connected with Dynamic Surroundings @VERSION@
+[00:25:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas joined the game
+[00:26:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 moved too quickly! -10.096881210803986,0.0,-0.07010806980542839
+[00:26:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sancho lost connection: Disconnected
+[00:26:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho left the game
+[00:26:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 moved too quickly! -0.5360064721899107,-7.0566234775999135,-7.316897863522172
+[00:26:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Zero73092: Teleported Zero73092 to -3330.5, 66.0, 168.5]
+[00:29:35] [Server thread/WARN] [FML]: Quark loaded a new chunk [-410, -24] in dimension 0 (overworld) while populating chunk [-409, -23], causing cascading worldgen lag.
+[00:29:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:29:51] [Server thread/WARN] [FML]: Quark loaded a new chunk [-419, -30] in dimension 0 (overworld) while populating chunk [-420, -29], causing cascading worldgen lag.
+[00:29:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:29:53] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3041ms behind, skipping 60 tick(s)
+[00:29:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 moved too quickly! -8.934755751410194,1.0763332660703497,4.594702510550519
+[00:31:36] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[00:31:36] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 63 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,hardcoredarkness@2.0,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[00:31:36] [Netty Epoll Server IO #4/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[00:31:36] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
+[00:31:41] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:31:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sancho[/127.107.68.208:34925] logged in with entity id 14438898 at (-4094.5, 73.0, 262.5)
+[00:31:41] [Server thread/INFO] [dsurround]: Player [Sancho] connected with Dynamic Surroundings @VERSION@
+[00:31:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho joined the game
+[00:32:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sancho lost connection: Disconnected
+[00:32:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho left the game
+[00:32:28] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[00:32:28] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 63 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,hardcoredarkness@2.0,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[00:32:28] [Netty Epoll Server IO #6/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[00:32:28] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[00:32:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:32:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sancho[/127.107.68.208:43271] logged in with entity id 14952146 at (-4094.5, 73.0, 262.5)
+[00:32:33] [Server thread/INFO] [dsurround]: Player [Sancho] connected with Dynamic Surroundings @VERSION@
+[00:32:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho joined the game
+[00:32:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 has made the advancement [Magic Writing]
+[00:33:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 is bleeding...
+[00:33:14] [Server thread/INFO] [tombstone]: The death event of the player Zero73092 was cancelled by another mod
+[00:33:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sebas: Teleported Zero73092 to Sebas]
+[00:33:33] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-123, 100] in dimension 0 (overworld) while populating chunk [-123, 99], causing cascading worldgen lag.
+[00:33:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:33:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho is bleeding...
+[00:33:36] [Server thread/INFO] [tombstone]: The death event of the player Sancho was cancelled by another mod
+[00:33:36] [Server thread/INFO] [tombstone]: Sancho has successfully been saved
+[00:33:42] [Server thread/WARN] [FML]: Quark loaded a new chunk [-454, 13] in dimension 0 (overworld) while populating chunk [-455, 13], causing cascading worldgen lag.
+[00:33:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:33:44] [Server thread/WARN] [FML]: Quark loaded a new chunk [-449, 11] in dimension 0 (overworld) while populating chunk [-451, 11], causing cascading worldgen lag.
+[00:33:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:33:44] [Server thread/WARN] [FML]: Quark loaded a new chunk [-450, 11] in dimension 0 (overworld) while populating chunk [-451, 11], causing cascading worldgen lag.
+[00:33:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:33:44] [Server thread/WARN] [FML]: Quark loaded a new chunk [-450, 10] in dimension 0 (overworld) while populating chunk [-451, 11], causing cascading worldgen lag.
+[00:33:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:33:45] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5273ms behind, skipping 105 tick(s)
+[00:33:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Sancho to Kevin070507]
+[00:34:04] [Server thread/WARN] [FML]: Quark loaded a new chunk [-452, -22] in dimension 0 (overworld) while populating chunk [-452, -23], causing cascading worldgen lag.
+[00:34:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:34:04] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-449, -24] in dimension 0 (overworld) while populating chunk [-450, -24], causing cascading worldgen lag.
+[00:34:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:34:04] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-449, -25] in dimension 0 (overworld) while populating chunk [-449, -24], causing cascading worldgen lag.
+[00:34:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:34:04] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-450, -25] in dimension 0 (overworld) while populating chunk [-449, -24], causing cascading worldgen lag.
+[00:34:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:34:05] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-450, -23] in dimension 0 (overworld) while populating chunk [-450, -24], causing cascading worldgen lag.
+[00:34:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:34:05] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-450, -21] in dimension 0 (overworld) while populating chunk [-450, -22], causing cascading worldgen lag.
+[00:34:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:34:05] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-445, -23] in dimension 0 (overworld) while populating chunk [-446, -23], causing cascading worldgen lag.
+[00:34:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:34:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 is bleeding...
+[00:34:14] [Server thread/INFO] [tombstone]: The death event of the player Zero73092 was cancelled by another mod
+[00:34:14] [Server thread/INFO] [tombstone]: Zero73092 has successfully been saved
+[00:34:17] [Server thread/WARN] [FML]: Quark loaded a new chunk [-459, 9] in dimension 0 (overworld) while populating chunk [-459, 8], causing cascading worldgen lag.
+[00:34:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:34:17] [Server thread/WARN] [FML]: Quark loaded a new chunk [-460, 9] in dimension 0 (overworld) while populating chunk [-459, 8], causing cascading worldgen lag.
+[00:34:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:34:18] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-442, -25] in dimension 0 (overworld) while populating chunk [-443, -25], causing cascading worldgen lag.
+[00:34:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:34:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sancho moved too quickly! -9.64180394820869,2.95795414467338,-2.7945963707752526
+[00:34:20] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2616ms behind, skipping 52 tick(s)
+[00:34:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sebas: Teleported Zero73092 to Sebas]
+[00:34:50] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-130, 94] in dimension 0 (overworld) while populating chunk [-130, 95], causing cascading worldgen lag.
+[00:34:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:34:50] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-131, 95] in dimension 0 (overworld) while populating chunk [-130, 95], causing cascading worldgen lag.
+[00:34:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:34:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sebas: Teleported Sebas to Sancho]
+[00:34:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Zero73092: Teleported Zero73092 to -3330.5, 66.0, 168.5]
+[00:35:41] [Server thread/WARN] [FML]: Quark loaded a new chunk [-444, -28] in dimension 0 (overworld) while populating chunk [-444, -27], causing cascading worldgen lag.
+[00:35:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:35:41] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-443, -28] in dimension 0 (overworld) while populating chunk [-442, -27], causing cascading worldgen lag.
+[00:35:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:35:41] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-442, -28] in dimension 0 (overworld) while populating chunk [-442, -27], causing cascading worldgen lag.
+[00:35:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:35:41] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-441, -27] in dimension 0 (overworld) while populating chunk [-442, -27], causing cascading worldgen lag.
+[00:35:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:35:44] [Server thread/WARN] [FML]: Quark loaded a new chunk [-471, -18] in dimension 0 (overworld) while populating chunk [-470, -17], causing cascading worldgen lag.
+[00:35:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:35:44] [Server thread/WARN] [FML]: Quark loaded a new chunk [-472, -18] in dimension 0 (overworld) while populating chunk [-470, -17], causing cascading worldgen lag.
+[00:35:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:35:45] [Server thread/WARN] [FML]: Quark loaded a new chunk [-467, -11] in dimension 0 (overworld) while populating chunk [-467, -12], causing cascading worldgen lag.
+[00:35:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:35:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 moved too quickly! -1.0302358157932758,-8.233632006042484,-5.86559607507661
+[00:35:47] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3497ms behind, skipping 69 tick(s)
+[00:36:05] [Server thread/WARN] [FML]: Quark loaded a new chunk [-473, -18] in dimension 0 (overworld) while populating chunk [-472, -19], causing cascading worldgen lag.
+[00:36:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:36:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 lost connection: Timed out
+[00:36:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 left the game
+[00:36:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas is bleeding...
+[00:36:44] [Server thread/INFO] [tombstone]: The death event of the player Sebas was cancelled by another mod
+[00:36:44] [Server thread/INFO] [tombstone]: Sebas has successfully been saved
+[00:36:50] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[00:36:50] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 65 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,skinlayers3d@1.2.0,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,controllable@0.11.2,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[00:36:50] [Netty Epoll Server IO #7/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[00:36:50] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[00:36:53] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-135, 93] in dimension 0 (overworld) while populating chunk [-135, 92], causing cascading worldgen lag.
+[00:36:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:36:54] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:36:54] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Kevin070507[/127.107.68.208:45931] logged in with entity id 17448613 at (-7406.70005869423, 71.0, -128.3597764314618)
+[00:36:54] [Server thread/INFO] [dsurround]: Player [Kevin070507] connected with Dynamic Surroundings @VERSION@
+[00:36:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 joined the game
+[00:36:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sancho: Teleported Sebas to Sancho]
+[00:37:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Sebas to Kevin070507]
+[00:37:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ola
+[00:37:22] [Server thread/WARN] [FML]: Quark loaded a new chunk [-481, -18] in dimension 0 (overworld) while populating chunk [-481, -19], causing cascading worldgen lag.
+[00:37:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:37:22] [Server thread/WARN] [FML]: Quark loaded a new chunk [-480, -19] in dimension 0 (overworld) while populating chunk [-481, -19], causing cascading worldgen lag.
+[00:37:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:37:22] [Server thread/WARN] [FML]: Quark loaded a new chunk [-480, -18] in dimension 0 (overworld) while populating chunk [-481, -19], causing cascading worldgen lag.
+[00:37:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:37:23] [Server thread/WARN] [FML]: Quark loaded a new chunk [-478, -16] in dimension 0 (overworld) while populating chunk [-478, -17], causing cascading worldgen lag.
+[00:37:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:37:24] [Stream Update/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: java.util.ConcurrentModificationException
+[00:37:24] [Stream Update/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:911)
+[00:37:24] [Stream Update/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.util.ArrayList$Itr.next(ArrayList.java:861)
+[00:37:24] [Stream Update/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.gliby.voicechat.common.networking.ThreadDataUpdateStream.run(ThreadDataUpdateStream.java:13)
+[00:37:24] [Stream Update/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.Thread.run(Thread.java:750)
+[00:37:25] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3950ms behind, skipping 79 tick(s)
+[00:37:34] [Server thread/WARN] [FML]: Quark loaded a new chunk [-482, 11] in dimension 0 (overworld) while populating chunk [-481, 11], causing cascading worldgen lag.
+[00:37:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:37:34] [Server thread/WARN] [FML]: Quark loaded a new chunk [-480, 12] in dimension 0 (overworld) while populating chunk [-481, 11], causing cascading worldgen lag.
+[00:37:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:37:34] [Server thread/WARN] [FML]: Quark loaded a new chunk [-481, 12] in dimension 0 (overworld) while populating chunk [-481, 11], causing cascading worldgen lag.
+[00:37:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:37:34] [Server thread/WARN] [FML]: Quark loaded a new chunk [-482, 12] in dimension 0 (overworld) while populating chunk [-481, 11], causing cascading worldgen lag.
+[00:37:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:37:37] [Server thread/WARN] [FML]: Quark loaded a new chunk [-449, -31] in dimension 0 (overworld) while populating chunk [-450, -31], causing cascading worldgen lag.
+[00:37:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:37:37] [Server thread/WARN] [FML]: Quark loaded a new chunk [-449, -32] in dimension 0 (overworld) while populating chunk [-450, -31], causing cascading worldgen lag.
+[00:37:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sebas moved too quickly! 6.691437561064959,0.0,7.759711712598801
+[00:38:56] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerWorkbench
+[00:38:56] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[00:38:56] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[00:38:56] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[00:38:56] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[00:38:56] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[00:38:56] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[00:38:56] [Server thread/INFO] [Quark ASM]: Patch result: true
+[00:39:07] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2148ms behind, skipping 42 tick(s)
+[00:39:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sancho moved too quickly! -1.0341891394928098,0.0,9.995432645082474
+[00:39:07] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-468, 26] in dimension 0 (overworld) while populating chunk [-467, 27], causing cascading worldgen lag.
+[00:39:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:39:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sancho moved too quickly! 1.3104633855400607,0.0,9.98081374168396
+[00:39:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 moved too quickly! -4.160008691636904,0.18420588722943876,-9.28402022961643
+[00:39:20] [Server thread/WARN] [FML]: Quark loaded a new chunk [-477, 20] in dimension 0 (overworld) while populating chunk [-474, 23], causing cascading worldgen lag.
+[00:39:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Kevin070507 to Kevin070507]
+[00:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Sebas to Kevin070507]
+[00:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Sancho to Kevin070507]
+[00:39:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Zero73092 to Kevin070507]
+[00:39:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Zero73092: Teleported Zero73092 to -3330.5, 66.0, 168.5]
+[00:39:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Sebas to Kevin070507]
+[00:39:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Kevin070507 to Sancho]
+[00:40:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sancho moved too quickly! -8.020627435707866,0.0,-6.2838464244999415
+[00:41:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Bread] * 1 to Kevin070507]
+[00:41:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Bread] * 1 to Kevin070507]
+[00:41:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Bread] * 1 to Kevin070507]
+[00:41:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Bread] * 1 to Kevin070507]
+[00:41:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Bread] * 1 to Kevin070507]
+[00:41:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Bread] * 1 to Kevin070507]
+[00:41:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Bread] * 1 to Kevin070507]
+[00:41:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Bread] * 1 to Kevin070507]
+[00:41:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Bread] * 1 to Kevin070507]
+[00:41:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Bread] * 1 to Kevin070507]
+[00:41:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Bread] * 1 to Kevin070507]
+[00:41:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Bread] * 1 to Kevin070507]
+[00:41:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Bread] * 1 to Kevin070507]
+[00:41:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Bread] * 1 to Kevin070507]
+[00:41:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Bread] * 1 to Kevin070507]
+[00:41:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Bread] * 1 to Kevin070507]
+[00:41:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Bread] * 1 to Kevin070507]
+[00:41:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Bread] * 1 to Kevin070507]
+[00:41:38] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 20295682
+ scent state 0
+ active 1
+ danger 131
+ delay 0
+ total life 1200
+ current life 20
+ targetScent is null false
+ level 3
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 3 4
+ loop 103
+ fail 0
+[00:41:38] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 20295682
+ scent state 0
+ active 1
+ danger 131
+ delay 0
+ total life 1200
+ current life 20
+ targetScent is null false
+ level 3
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 3 4
+ loop 103
+ fail 0
+[00:41:39] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 20295682
+ scent state 0
+ active 2
+ danger 131
+ delay 0
+ total life 1200
+ current life 40
+ targetScent is null false
+ level 3
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 3 4
+ loop 103
+ fail 0
+[00:41:40] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 20295682
+ scent state 0
+ active 2
+ danger 131
+ delay 0
+ total life 1200
+ current life 60
+ targetScent is null false
+ level 3
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 3 4
+ loop 103
+ fail 0
+[00:42:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho is bleeding...
+[00:42:54] [Server thread/INFO] [tombstone]: The death event of the player Sancho was cancelled by another mod
+[00:43:01] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.entity.EntityParasiticScent:func_70100_b_:1005]: 
+ id 21374281
+ scent state 0
+ active 0
+ danger 131
+ delay 0
+ total life 1200
+ current life 20
+ targetScent is null false
+ level 3
+ targetScent name class micdoodle8.mods.galacticraft.core.entities.player.GCEntityPlayerMP
+ min max mob 3 4
+ loop 103
+ fail 0
+[00:43:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sebas: Teleported Sancho to Sebas]
+[00:43:05] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-150, 70] in dimension 0 (overworld) while populating chunk [-150, 71], causing cascading worldgen lag.
+[00:43:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:43:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Sancho to Kevin070507]
+[00:43:37] [Server thread/WARN] [FML]: Quark loaded a new chunk [-488, 18] in dimension 0 (overworld) while populating chunk [-488, 17], causing cascading worldgen lag.
+[00:43:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:43:38] [Server thread/WARN] [FML]: Quark loaded a new chunk [-483, 19] in dimension 0 (overworld) while populating chunk [-483, 18], causing cascading worldgen lag.
+[00:43:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:43:38] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3044ms behind, skipping 60 tick(s)
+[00:43:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sancho moved too quickly! -9.978279434144497,-3.0,0.861985668100381
+[00:43:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 moved too quickly! -9.608211349871453,2.2946910682906605,2.0479382874926486
+[00:43:49] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-147, 68] in dimension 0 (overworld) while populating chunk [-148, 68], causing cascading worldgen lag.
+[00:43:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:43:49] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-146, 68] in dimension 0 (overworld) while populating chunk [-147, 68], causing cascading worldgen lag.
+[00:43:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:43:49] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-146, 67] in dimension 0 (overworld) while populating chunk [-146, 68], causing cascading worldgen lag.
+[00:43:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:43:49] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-147, 67] in dimension 0 (overworld) while populating chunk [-148, 68], causing cascading worldgen lag.
+[00:43:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:43:49] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-148, 67] in dimension 0 (overworld) while populating chunk [-148, 68], causing cascading worldgen lag.
+[00:43:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:43:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 moved too quickly! -10.09027646233244,0.0,-0.4320649180010392
+[00:43:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sancho moved too quickly! -8.254566109424559,0.0,-5.816623188341353
+[00:43:57] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2179ms behind, skipping 43 tick(s)
+[00:44:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 moved wrongly!
+[00:44:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 moved wrongly!
+[00:44:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 moved wrongly!
+[00:44:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 moved wrongly!
+[00:44:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sancho moved too quickly! -9.932440056629275,-1.0,-2.0553488911763758
+[00:44:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 is bleeding...
+[00:44:12] [Server thread/INFO] [tombstone]: The death event of the player Kevin070507 was cancelled by another mod
+[00:44:12] [Server thread/INFO] [tombstone]: Kevin070507 has successfully been saved
+[00:44:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Given    [Light Blue Dye] * 1 to Kevin070507]
+[00:44:31] [Server thread/WARN] [FML]: Quark loaded a new chunk [-498, 12] in dimension 0 (overworld) while populating chunk [-498, 11], causing cascading worldgen lag.
+[00:44:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:44:31] [Server thread/WARN] [FML]: Quark loaded a new chunk [-499, 12] in dimension 0 (overworld) while populating chunk [-498, 11], causing cascading worldgen lag.
+[00:44:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:44:31] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2043ms behind, skipping 40 tick(s)
+[00:44:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sancho: Teleported Kevin070507 to Sancho]
+[00:45:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho is bleeding...
+[00:45:03] [Server thread/INFO] [tombstone]: The death event of the player Sancho was cancelled by another mod
+[00:45:03] [Server thread/INFO] [tombstone]: Sancho has successfully been saved
+[00:45:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Sancho to Sebas]
+[00:45:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Kevin070507: Teleported Kevin070507 to Sebas]
+[00:45:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 is bleeding...
+[00:45:34] [Server thread/INFO] [tombstone]: The death event of the player Kevin070507 was cancelled by another mod
+[00:45:34] [Server thread/INFO] [tombstone]: Kevin070507 has successfully been saved
+[00:45:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sancho lost connection: Timed out
+[00:45:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho left the game
+[00:45:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho was slain by Zombie
+[00:45:35] [Server thread/INFO] [tombstone]: The last known grave of Sancho is at location [name:Last Grave, x:-3070, y:42, z:1032] in the dimension 0
+[00:45:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 lost connection: Timed out
+[00:45:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 left the game
+[00:45:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 drowned
+[00:45:40] [Server thread/INFO] [tombstone]: The last known grave of Kevin070507 is at location [name:Last Grave, x:-3061, y:63, z:1046] in the dimension 0
+[00:45:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Entity 'Sancho' cannot be found
+[00:45:57] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[00:45:57] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 65 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,skinlayers3d@1.2.0,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,controllable@0.11.2,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[00:45:57] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[00:45:57] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[00:46:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:46:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Kevin070507[/127.107.68.208:35395] logged in with entity id 23143554 at (-3060.6393544813136, 49.937795006688454, 1046.1185256277604)
+[00:46:00] [Server thread/INFO] [dsurround]: Player [Kevin070507] connected with Dynamic Surroundings @VERSION@
+[00:46:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 joined the game
+[00:46:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 lost connection: Timed out
+[00:46:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 left the game
+[00:46:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Zero73092 lost connection: Timed out
+[00:46:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 left the game
+[00:46:36] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[00:46:36] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 65 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,skinlayers3d@1.2.0,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,otgcore@1.12.2-v9.5-R2,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,controllable@0.11.2,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[00:46:36] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[00:46:36] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[00:46:39] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:46:39] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Kevin070507[/127.107.68.208:42935] logged in with entity id 23430921 at (-3060.6393544813136, 49.937795006688454, 1046.1185256277604)
+[00:46:39] [Server thread/INFO] [dsurround]: Player [Kevin070507] connected with Dynamic Surroundings @VERSION@
+[00:46:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 joined the game
+[00:46:41] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[00:46:41] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 63 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,hardcoredarkness@2.0,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[00:46:41] [Netty Epoll Server IO #4/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[00:46:41] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
+[00:46:46] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:46:46] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sancho[/127.107.68.208:33645] logged in with entity id 23468433 at (-3069.372005514727, 51.02433595240159, 1037.8628994262115)
+[00:46:46] [Server thread/INFO] [dsurround]: Player [Sancho] connected with Dynamic Surroundings @VERSION@
+[00:46:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho joined the game
+[00:46:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Kevin070507 lost connection: Timed out
+[00:46:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kevin070507 left the game
+[00:47:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sancho lost connection: Timed out
+[00:47:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho left the game
+[00:47:35] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[00:47:35] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 62 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,advanced_darkness@1.5,foamfix@@VERSION@,voxelmap@1.9.25,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[00:47:35] [Netty Epoll Server IO #6/INFO] [FML]: Attempting connection with missing mods [lesslag, journeymap, vanillafix] at CLIENT
+[00:47:35] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[00:47:38] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:47:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Zero73092[/127.107.68.208:36147] logged in with entity id 23785803 at (-3026.4150271985122, 62.26354935194917, 1017.531005660624)
+[00:47:38] [Server thread/INFO] [dsurround]: Player [Zero73092] connected with Dynamic Surroundings @VERSION@
+[00:47:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 joined the game
+[00:47:43] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[00:47:43] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 63 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,hardcoredarkness@2.0,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[00:47:43] [Netty Epoll Server IO #7/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[00:47:43] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[00:47:47] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:47:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sancho[/127.107.68.208:45971] logged in with entity id 23843240 at (-3069.372005514727, 51.02433595240159, 1037.8628994262115)
+[00:47:47] [Server thread/INFO] [dsurround]: Player [Sancho] connected with Dynamic Surroundings @VERSION@
+[00:47:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho joined the game
+[00:47:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Zero73092 lost connection: Timed out
+[00:47:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Zero73092 left the game
+[00:48:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sancho lost connection: Timed out
+[00:48:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho left the game
+[00:48:20] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[00:48:20] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 63 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,hardcoredarkness@2.0,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[00:48:20] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[00:48:20] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[00:48:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:48:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sancho[/127.107.68.208:47023] logged in with entity id 24068072 at (-3069.372005514727, 51.02433595240159, 1037.8628994262115)
+[00:48:23] [Server thread/INFO] [dsurround]: Player [Sancho] connected with Dynamic Surroundings @VERSION@
+[00:48:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho joined the game
+[00:48:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root_blue_flower
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.feather
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.feather
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.feather
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.feather
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.betteranimalsplus.antler
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.betteranimalsplus.wolf_pelt_black
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.doublePlant.paeonia
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.doublePlant.paeonia
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.doublePlant.paeonia
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.feather
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.doublePlant.paeonia
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.seeds
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.feather
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.big_oak
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.chickenRaw
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.feather
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.apple
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.big_oak
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.feather
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.big_oak
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.feather
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.string
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.feather
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root_blue_flower
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.feather
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.seeds
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.feather
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.seeds
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.quark:sakura_sapling
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.quark:sakura_sapling
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.srparasites.lurecomponent1
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.srparasites.lurecomponent1
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tombstone.item.grave_dust
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tombstone.item.magic_scroll
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.rottenFlesh
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root_black_flower
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.potato
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root_white_flower
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root_black_flower
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.feather
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root_blue_flower
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.string
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.string
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.egg
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.string
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.doublePlant.rose
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.flower_1.miners_delight
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.flower_1.miners_delight
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.flower_1.miners_delight
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.flower_0.white_anemone
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.flower_0.white_anemone
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.flower_1.miners_delight
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root_blue_flower
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.gravel
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root_black_flower
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root_white_flower
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root_blue_flower
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.flower_1.miners_delight
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root_blue_flower
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root_white_flower
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root_white_flower
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root_white_flower
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.oak
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.sapling.birch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.stick
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.oak_button
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root_black_flower
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root_white_flower
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.quark:root_blue_flower
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.flower_1.miners_delight
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.futuremc.lily_of_the_valley
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.mushroom.glowshroom
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.string
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.torch
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.string
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.string
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.rail
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.string
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.string
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.string
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.string
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.string
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.string
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.item.seeds
+[00:48:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed item.tile.flower1.dandelion
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Killed Zombie
+[00:51:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sancho: Set own game mode to Creative Mode]
+[00:51:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sancho lost connection: Timed out
+[00:51:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho left the game
+[00:52:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sebas lost connection: Timed out
+[00:52:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas left the game
+[00:52:19] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[00:52:19] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 63 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,hardcoredarkness@2.0,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[00:52:19] [Netty Epoll Server IO #1/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[00:52:19] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[00:52:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:52:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sancho[/127.107.68.208:46177] logged in with entity id 25695804 at (-3070.8613916619397, 51.0, 1034.114617933361)
+[00:52:25] [Server thread/INFO] [dsurround]: Player [Sancho] connected with Dynamic Surroundings @VERSION@
+[00:52:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sancho joined the game
+[00:52:25] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[00:52:25] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 63 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,advanced_darkness@1.5,foamfix@@VERSION@,voxelmap@1.9.25,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[00:52:25] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [lesslag, journeymap, vanillafix] at CLIENT
+[00:52:25] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[00:52:29] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:52:29] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sebas[/127.107.68.208:38695] logged in with entity id 25695805 at (-3062.409690352763, 62.54995896166779, 1045.4968071430746)
+[00:52:29] [Server thread/INFO] [dsurround]: Player [Sebas] connected with Dynamic Surroundings @VERSION@
+[00:52:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas joined the game
