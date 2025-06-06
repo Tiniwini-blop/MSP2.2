@@ -4927,3 +4927,11 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'dragonmounts:dragon_bow_fir
 [03:31:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] como que uwu puto
 [03:31:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> pero volviero nmas
 [03:31:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] jaja todo wey ese wey jaja que cosas
+[03:50:22] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerWorkbench
+[03:50:22] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[03:50:22] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[03:50:22] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[03:50:22] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[03:50:22] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[03:50:22] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[03:50:22] [Server thread/INFO] [Quark ASM]: Patch result: true
