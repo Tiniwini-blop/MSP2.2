@@ -4896,3 +4896,34 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'dragonmounts:dragon_bow_fir
 [03:13:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sebas[/127.50.243.42:50665] logged in with entity id 2185071 at (-3329.2928909943603, 68.0, 162.0575586436759)
 [03:13:24] [Server thread/INFO] [dsurround]: Player [Sebas] connected with Dynamic Surroundings @VERSION@
 [03:13:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas joined the game
+[03:23:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sebas: Set game difficulty to Hard]
+[03:23:24] [Server thread/WARN] [FML]: Quark loaded a new chunk [-222, 40] in dimension 0 (overworld) while populating chunk [-223, 41], causing cascading worldgen lag.
+[03:23:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:23:26] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6897ms behind, skipping 137 tick(s)
+[03:23:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> a
+[03:23:38] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-230, 52] in dimension 0 (overworld) while populating chunk [-230, 51], causing cascading worldgen lag.
+[03:23:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:23:38] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-229, 52] in dimension 0 (overworld) while populating chunk [-229, 51], causing cascading worldgen lag.
+[03:23:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:24:27] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [-227, 53] in dimension 0 (overworld) while populating chunk [-228, 53], causing cascading worldgen lag.
+[03:24:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:29:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sebas moved too quickly! 0.8482254271284546,1.9820870233632775,-10.053997649099415
+[03:29:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sebas was kicked for floating too long!
+[03:29:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sebas lost connection: Flying is not enabled on this server
+[03:29:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas left the game
+[03:29:57] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[03:29:57] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 64 mods : extendedrenderer@v1.0,gokistats@1.2.10,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,customskinloader@14.23,configmod@v1.0,jei@4.16.1.1013,futuremc@0.2.6,techguns_core@1.12.2-1.0,mcp@9.42,hammercore@12.2.50,journeymap@1.12.2-5.7.1p3,configex@1.0,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,fencejumper@1.0.5,betteranimalsplus@7.1.1,badmobs@1.1.40,forgelin@1.8.3,ironbackpacks@1.12.2-3.0.8-12,foamfixcore@7.7.4,dayzombies@1.0.0,waila@1.8.26,galacticraftplanets@4.0.2.281,ichunutil@7.2.2,tlauncher_custom_cape_skin@1.4,micdoodlecore@,forge@14.23.5.2860,dragonmounts@2.0.0,orelib@3.6.0.1,dsurround@@VERSION@,thiccentities@GRADLE:VERSION,minecraft@1.12.2,toolbelt@1.9.14,biomesoplenty@7.0.1.2445,creativecore@1.10.0,vehicle@0.44.1,astikorcarts@1.12.2-0.1.2.7,gvc@1.2.5,improvableskills@12.4.68,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,mobsunscreen@@version@,securitycraft@v1.8.23.2,autoreglib@1.3-32,galacticraftcore@4.0.2.281,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,cfm@4.1.5,advanced_darkness@1.5,foamfix@@VERSION@,weather2remaster@2.8.16,soundfilters@0.12.1_for_1.12,playerrevive@1.0,mobends@1.2.1,techguns@2.0.2.0
+[03:29:57] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[03:29:57] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [lesslag, vanillafix] at CLIENT
+[03:29:59] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:29:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sebas[/127.50.243.42:45907] logged in with entity id 9499626 at (-3521.4293734541448, 76.477730417752, 293.9855098386894)
+[03:29:59] [Server thread/INFO] [dsurround]: Player [Sebas] connected with Dynamic Surroundings @VERSION@
+[03:29:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas joined the game
+[03:30:02] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3679ms behind, skipping 73 tick(s)
+[03:30:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> xd
+[03:31:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] ya casi voy ya nomas hago la cenita ugu
+[03:31:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> uwu
+[03:31:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> ya mate a todos los parasitos de la ciudad
+[03:31:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] como que uwu puto
+[03:31:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> pero volviero nmas
+[03:31:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] jaja todo wey ese wey jaja que cosas
