@@ -5004,3 +5004,11 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'dragonmounts:dragon_bow_fir
 [04:36:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sebas was blown up by Pod
 [04:36:33] [Server thread/INFO] [tombstone]: The last known grave of Sebas is at location [name:Last Grave, x:15, y:63, z:434] in the dimension 0
 [04:37:14] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2384ms behind, skipping 47 tick(s)
+[04:37:51] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3052ms behind, skipping 61 tick(s)
+[04:45:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] alla voy
+[04:45:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] me cambie de w10 a 11 y no se cerro guaus
+[04:45:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Sebas> xd
+[04:46:35] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[04:46:35] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[04:46:47] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
+[04:47:12] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
