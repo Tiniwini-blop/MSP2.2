@@ -505,6 +505,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_voodoo_poppet": {
+    "criteria": {
+      "has_ingredient": "2025-06-06 06:04:11 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_the_recipe": "2025-06-02 00:57:55 +0000"
@@ -799,6 +805,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-06-06 06:07:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_the_recipe": "2025-06-02 00:57:55 +0000"
@@ -880,6 +892,12 @@
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_the_recipe": "2025-06-02 00:57:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-06-06 06:04:11 +0000"
     },
     "done": true
   },
@@ -1114,6 +1132,12 @@
   "minecraft:recipes/decorations/magenta_banner": {
     "criteria": {
       "has_the_recipe": "2025-06-02 00:57:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/ancient_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2025-06-06 06:00:25 +0000"
     },
     "done": true
   },
@@ -1846,6 +1870,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_the_recipe": "2025-06-02 00:57:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/use_reach": {
+    "criteria": {
+      "coded_trigger": "2025-06-06 06:00:36 +0000"
     },
     "done": true
   },
@@ -3503,6 +3533,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-06-06 06:04:17 +0000"
+    },
+    "done": true
+  },
   "dragonmounts:recipes/combat/terra_dragonscale_leggings": {
     "criteria": {
       "has_the_recipe": "2025-06-02 00:57:55 +0000"
@@ -3615,6 +3651,12 @@
   "minecraft:recipes/decorations/light_blue_banner": {
     "criteria": {
       "has_the_recipe": "2025-06-02 00:57:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-06-06 06:04:26 +0000"
     },
     "done": true
   },
@@ -4254,6 +4296,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-06-06 06:04:11 +0000"
+    },
+    "done": true
+  },
   "dragonmounts:recipes/combat/enchant_dragonscale_boots": {
     "criteria": {
       "has_the_recipe": "2025-06-02 00:57:55 +0000"
@@ -4587,6 +4635,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_the_recipe": "2025-06-02 00:57:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/use_unstable_intangibility": {
+    "criteria": {
+      "coded_trigger": "2025-06-06 06:01:33 +0000"
     },
     "done": true
   },
